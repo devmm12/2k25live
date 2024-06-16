@@ -45,26 +45,6 @@
   </style>
 </head>
 <body>
-  
-  <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <a class="navbar-brand" href="#">VidUrl.net</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNav">
-      <ul class="navbar-nav ml-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
-        </li>
-      </ul>
-    </div>
-  </nav>
 
   <div class="container mt-5">
     <div class="row" id="post-list"></div>
@@ -85,38 +65,61 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
   <script>
-    function fetchPosts(page) {
-      const apiEndpoint = `https://vidurl.net/posts/`;
+        async function fetchHTML(url) {
+            const response = await fetch(url);
+            if (!response.ok) {
+                throw new Error('Network response was not ok');
+            }
+            return await response.text();
+        }
 
-      fetch(apiEndpoint)
-        .then(response => response.json())
-        .then(data => {
-          displayPosts(data);
-        })
-        .catch(error => console.error('Error fetching posts:', error));
-    }
+        function extractPosts(html) {
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(html, 'text/html');
+            const posts = doc.querySelectorAll('.entry-summary');
+            return Array.from(posts).map(post => {
+                const title = post.querySelector('.screen-reader-text').textContent;
+                const summary = post.querySelector('p').textContent;
+                const link = post.querySelector('a').href;
+                return { title, summary, link };
+            });
+        }
 
-    function displayPosts(posts) {
-      const postList = document.getElementById('post-list');
-      postList.innerHTML = '';
+        function displayPosts(posts) {
+            const postList = document.getElementById('post-list');
+            postList.innerHTML = '';
 
-      posts.forEach(post => {
-        const postCard = `
-          <div class="col-md-6">
-            <div class="card mb-4 post-card">
-              <a href="${post.url}"><img src="${post.image}" class="card-img-top" alt="Post Image">
-              <div class="card-body">
-                <h5 class="card-title">${post.title}</h5>
-              </div>
-              </a>
-            </div>
-          </div>
-        `;
-        postList.innerHTML += postCard;
-      });
-    }
+            posts.forEach(post => {
+                const postCard = `
+                    <div class="col-md-6">
+                        <div class="card mb-4 post-card">
+                            <a href="${post.link}">
+                                <img src="https://via.placeholder.com/600x400" class="card-img-top" alt="Post Image">
+                            </a>
+                            <div class="card-body">
+                                <h5 class="card-title">${post.title}</h5>
+                                <p>${post.summary}</p>
+                                <a href="${post.link}" class="btn btn-primary">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                `;
+                postList.innerHTML += postCard;
+            });
+        }
 
-    fetchPosts(1);
-  </script>
+        async function fetchAndDisplayPosts() {
+            const url = 'https://sportsmyanmar.com'; // Replace with the actual URL of the WordPress site
+            try {
+                const html = await fetchHTML(url);
+                const posts = extractPosts(html);
+                displayPosts(posts);
+            } catch (error) {
+                console.error('Error fetching or displaying posts:', error);
+            }
+        }
+
+        fetchAndDisplayPosts();
+    </script>
 </body>
 </html>

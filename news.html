@@ -65,61 +65,39 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 
   <script>
-        async function fetchHTML(url) {
-            const response = await fetch(url);
-            if (!response.ok) {
-                throw new Error('Network response was not ok');
-            }
-            return await response.text();
-        }
+    function fetchPosts(page) {
+      const apiEndpoint = `https://raw.githubusercontent.com/devmm12/2k25live/main/news.json`;
 
-        function extractPosts(html) {
-            const parser = new DOMParser();
-            const doc = parser.parseFromString(html, 'text/html');
-            const posts = doc.querySelectorAll('.entry-summary');
-            return Array.from(posts).map(post => {
-                const title = post.querySelector('.screen-reader-text').textContent;
-                const summary = post.querySelector('p').textContent;
-                const link = post.querySelector('a').href;
-                return { title, summary, link };
-            });
-        }
+      fetch(apiEndpoint)
+        .then(response => response.json())
+        .then(data => {
+          displayPosts(data);
+        })
+        .catch(error => console.error('Error fetching posts:', error));
+    }
 
-        function displayPosts(posts) {
-            const postList = document.getElementById('post-list');
-            postList.innerHTML = '';
+    function displayPosts(posts) {
+      const postList = document.getElementById('post-list');
+      postList.innerHTML = '';
 
-            posts.forEach(post => {
-                const postCard = `
-                    <div class="col-md-6">
-                        <div class="card mb-4 post-card">
-                            <a href="${post.link}">
-                                <img src="https://via.placeholder.com/600x400" class="card-img-top" alt="Post Image">
-                            </a>
-                            <div class="card-body">
-                                <h5 class="card-title">${post.title}</h5>
-                                <p>${post.summary}</p>
-                                <a href="${post.link}" class="btn btn-primary">Read More</a>
-                            </div>
-                        </div>
-                    </div>
-                `;
-                postList.innerHTML += postCard;
-            });
-        }
+      posts.forEach(post => {
+        const postCard = `
+          <div class="col-md-6">
+            <div class="card mb-4 post-card">
+              <a href="${post.link}"><img src="${post.image}" class="card-img-top" alt="Post Image">
+              <div class="card-body">
+                <h5 class="card-title">${post.title}</h5>
+              </div>
+              </a>
+            </div>
+          </div>
+        `;
+        postList.innerHTML += postCard;
+      });
+    }
 
-        async function fetchAndDisplayPosts() {
-            const url = 'https://raw.githubusercontent.com/devmm12/2k25live/main/news.json'; // Replace with the actual URL of the WordPress site
-            try {
-                const html = await fetchHTML(url);
-                const posts = extractPosts(html);
-                displayPosts(posts);
-            } catch (error) {
-                console.error('Error fetching or displaying posts:', error);
-            }
-        }
-
-        fetchAndDisplayPosts();
-    </script>
+    fetchPosts(1);
+  </script>
+ 
 </body>
 </html>

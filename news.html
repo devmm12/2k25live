@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="6a97888e-site-verification" content="f53daa9bcb56e10678e39036925adbbf">
+  <title>VIDURL.NET</title>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .post-card {
+      height: 300px;
+      overflow: hidden;
+      border-radius: 10px;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .post-card img {
+      height: 200px;
+      object-fit: cover;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+    }
+
+    .post-card .card-body {
+      height: 200px;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .post-card .btn-primary {
+      align-self: flex-end;
+    }
+    
+     .post-card a {
+      text-decoration: none; /* Remove default underline */
+      color: inherit; /* Inherit text color */
+    }
+
+    .post-card a:hover {
+      text-decoration: underline; /* Add underline on hover */
+    }
+  </style>
+</head>
+<body>
+  
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">VidUrl.net</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Contact</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="container mt-5">
+    <div class="row" id="post-list"></div>
+    
+    <nav>
+      <ul class="pagination justify-content-center" id="pagination"></ul>
+    </nav>
+    
+  </div>
+
+  <footer class="footer bg-light">
+    <div class="container text-center">
+      <span class="text-muted">Copyright &copy; 2024 VidUrl.net</span>
+    </div>
+  </footer>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+  <script>
+    function fetchPosts(page) {
+      const apiEndpoint = `https://vidurl.net/posts/`;
+
+      fetch(apiEndpoint)
+        .then(response => response.json())
+        .then(data => {
+          displayPosts(data);
+        })
+        .catch(error => console.error('Error fetching posts:', error));
+    }
+
+    function displayPosts(posts) {
+      const postList = document.getElementById('post-list');
+      postList.innerHTML = '';
+
+      posts.forEach(post => {
+        const postCard = `
+          <div class="col-md-6">
+            <div class="card mb-4 post-card">
+              <a href="${post.url}"><img src="${post.image}" class="card-img-top" alt="Post Image">
+              <div class="card-body">
+                <h5 class="card-title">${post.title}</h5>
+              </div>
+              </a>
+            </div>
+          </div>
+        `;
+        postList.innerHTML += postCard;
+      });
+    }
+
+    fetchPosts(1);
+  </script>
+</body>
+</html>

@@ -109,7 +109,7 @@
         }
 
         async function fetchAndDisplayPosts() {
-            const url = 'https://sportsmyanmar.com'; // Replace with the actual URL of the WordPress site
+            const url = 'https://raw.githubusercontent.com/devmm12/2k25live/main/news.json'; // Replace with the actual URL of the WordPress site
             try {
                 const html = await fetchHTML(url);
                 const posts = extractPosts(html);

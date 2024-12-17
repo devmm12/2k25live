@@ -132,12 +132,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912016_lsd.m3u8?auth_key=1734477872-0-0-0c413c8d5c97a12876721fa73a769383",
+                "stream_url": "https://pull.niues.live/live/stream-9912016_lsd.m3u8?auth_key=1734478172-0-0-983c5981ca05a41cd2b1efca8cf001e2",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1734477872-0-0-36d76ef1a075b219d2c2d8da48202fa7",
+                "stream_url": "https://pull.niues.live/live/stream-9912016_lhd.m3u8?auth_key=1734478172-0-0-afe1c34c32959a156e680586556b4782",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -370,13 +370,24 @@
     },
     {
         "match_time": "1734475200",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Flamengo",
         "home_team_logo": "https://sta.vnres.co/file/common/20241216/e7f854154531502e28c24cf67bb292ed.png",
         "away_team_name": "Toros del Chiriqui",
         "away_team_logo": "https://sta.vnres.co/file/common/20241216/795395410fdb7d2bf13634d03ff01fde.png",
         "league_name": "BCLA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1734478172-0-0-808ac11f1ff4c6aa33ec2090ebfb1d4e",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1734478172-0-0-d3a2bbed6ac63dcdef0a4a3afcc44f0d",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1734476400",

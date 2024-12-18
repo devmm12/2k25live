@@ -370,23 +370,55 @@
     },
     {
         "match_time": "1734512400",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Townsville W",
         "home_team_logo": "https://sta.vnres.co/file/common/20241216/d9367f325babb47b8d827bdd63d3bc7b.png",
         "away_team_name": "Sydney W",
         "away_team_logo": "https://sta.vnres.co/file/common/20241216/70b410af22bf93378345ccfb12c40e60.png",
         "league_name": "WNBL",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=05459833fd22403f865b90345b63d9a9&txTime=6762e0fc",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=3ad816e9c32cb4d41e235cd8f426b1e4&txTime=6762e0fc",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1734515372-0-0-f2256474ff2bb45c497d584408b630fd",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1734515372-0-0-652b832b081ea95b5e1e78a593d54ca0",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1734512400",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Rain or Shine Elasto Painters",
         "home_team_logo": "https://sta.vnres.co/file/common/20241216/657e702bf516894fa797b02c89ea580f.png",
         "away_team_name": "Magnolia Hotshots",
         "away_team_logo": "https://sta.vnres.co/file/common/20241216/c7345215ff2caa187bddfe66569dc18a.png",
         "league_name": "PBCC",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1734515372-0-0-18064f726496d5613f49957109f829ff",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1734515372-0-0-6459c485b9ccde60bdb5035f3fbb06d7",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1734514200",

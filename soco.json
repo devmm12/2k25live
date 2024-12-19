@@ -440,13 +440,34 @@
     },
     {
         "match_time": "1734593400",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Bendigo W",
         "home_team_logo": "https://sta.vnres.co/file/common/20241217/81f535fa6c5507a8edb3efed31633633.png",
         "away_team_name": "Perth Lynx W",
         "away_team_logo": "https://sta.vnres.co/file/common/20241217/755d80d1c66ccc365f34480d6bec2ce6.png",
         "league_name": "WNBL",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-289098_lsd.m3u8?auth_key=1734596399-0-0-31559cb0804f431e3f76414e31fd856c",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-289098_lhd.m3u8?auth_key=1734596399-0-0-0921551ad96278cb0227add818d91fa4",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1734596372-0-0-f9b3e3a32ab803f541b7e6f83f634659",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1734596372-0-0-c153fbe51e72d16ed451fbbb4fd01467",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1734597000",

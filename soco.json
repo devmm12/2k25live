@@ -307,23 +307,55 @@
     },
     {
         "match_time": "1734647400",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Pato",
         "home_team_logo": "https://sta.vnres.co/file/common/20241218/1c1b6626f570d9229363804e40cb83b6.png",
         "away_team_name": "Sao Jose",
         "away_team_logo": "https://sta.vnres.co/file/common/20241218/0ae184fd82b8a188bf0e0fcac16f9871.png",
         "league_name": "NBB",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1734650372-0-0-b4a337fc62d1bd7abf743e3d0b03b32a",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1734650372-0-0-1a8e575ccc03392d4d6bb7eed11babfe",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1734650372-0-0-544c61e483d4ac84919a79c777f28282",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1734650372-0-0-0f8726ee0718fd1ee44e7f095b517add",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1734647400",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Unifacisa",
         "home_team_logo": "https://sta.vnres.co/file/common/20241218/fdd0cb23968fd2698693337eae3afc2e.png",
         "away_team_name": "Cearense",
         "away_team_logo": "https://sta.vnres.co/file/common/20241218/6fdfeece98c1cf5d5f2acd239e262ef2.png",
         "league_name": "NBB",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=e39d1fe3b8d80d99ba4047cee2412fad&txTime=6764f054",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=3a41834467d655739e9a05a06b667fab&txTime=6764f054",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1734654600",

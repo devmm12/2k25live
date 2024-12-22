@@ -20,12 +20,12 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=1f4aa10eb0f383a85e7dac1a5a39ba10&txTime=6767e304",
+                "stream_url": "https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=697e8b558e67a672091e4ad5a56b9f6a&txTime=6767e3db",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=a61ae7b332d769925bdf4dec8193bf07&txTime=6767e304",
+                "stream_url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=20105da942dd5fd6c6a7b956cde585c6&txTime=6767e3db",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -581,78 +581,6 @@
         ]
     },
     {
-        "match_time": "1734832800",
-        "match_status": "live",
-        "home_team_name": "Viamaterras Miyazaki (w)",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241218/46b8fc1338b7314085dc39b8a4fe560a.png",
-        "away_team_name": "NTV Tokyo Verdy Beleza",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241218/6f314fae83256545d5310005a0084b82.png",
-        "league_name": "JPN WEC",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1734843197-0-0-b5e76467da12d36c88a258f036e4251c",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1734843197-0-0-96d665c6289c4a05dbde7006e58b09fe",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-265767_lsd.m3u8?auth_key=1734843089-0-0-00199ace3cfc81f93898cf6c13748a6f",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-265767_lhd.m3u8?auth_key=1734843089-0-0-81cd205e3d4a63bc3303b270a1e1200a",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1734832800",
-        "match_status": "live",
-        "home_team_name": "Albirex Niigata Ladies",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241218/8eb9576c2fd6598b535ca3014e0e34c0.png",
-        "away_team_name": "Mynavi Sendai Ladies",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241218/ca399e5d5b582a6fc114da3119eb1060.png",
-        "league_name": "JPN WEC",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-474421_lsd.m3u8?auth_key=1734843152-0-0-12646cca33143ec3091223ebc8f61315",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1734843152-0-0-e3d95a38dc19aa199f5ebe499c4d79bf",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-291277_lsd.m3u8?txSecret=1f4aa10eb0f383a85e7dac1a5a39ba10&txTime=6767e304",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=a61ae7b332d769925bdf4dec8193bf07&txTime=6767e304",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=65e62167b319bd588798d850adb6a62b&txTime=6767e19a",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=6f761190ce3cebb1615ac27675afb6ed&txTime=6767e19a",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1734833100",
         "match_status": "live",
         "home_team_name": "Dallas Mavericks",
@@ -684,22 +612,22 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=54f8b31fd69c2994e9976aca6d0acd03&txTime=6767e304",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=bd841cb3cf16714513844467ce1528c7&txTime=6767e430",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=a746326e35cdc1906f5ce1f5f4b79449&txTime=6767e304",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=ee07d465f7c66de3a6d70b601922ac25&txTime=6767e430",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=4965dc6f2cc53f71ca5b2c233432c13c&txTime=6767e304",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=3e4c829251c387e47506cbb9b035acfe&txTime=6767e430",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=532ee508b58455228a185f230d9b65fe&txTime=6767e304",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=59ee6680f82c1dcd52719645c24904fd&txTime=6767e430",
                 "referer": "https://socolivev.co/"
             }
         ]

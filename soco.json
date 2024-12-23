@@ -266,43 +266,87 @@
     },
     {
         "match_time": "1734998400",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Cleveland Cavaliers",
         "home_team_logo": "https://sta.vnres.co/file/common/20241222/bae99f0f844dfad8a1ee9bb3a96597fe.png",
         "away_team_name": "Utah Jazz",
         "away_team_logo": "https://sta.vnres.co/file/common/20241222/0cd31a1209c8186d08e2976e4eb5bf3c.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=caad47806b52e5bf4082ddb229856998&txTime=676a4b6c",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=cf4537fff462a600fa01894235c786cf&txTime=676a4b6c",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1734998400",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Orlando Magic",
         "home_team_logo": "https://sta.vnres.co/file/common/20241222/afb9dcaf6cd9453090efb1204e441b88.png",
         "away_team_name": "Boston Celtics",
         "away_team_logo": "https://sta.vnres.co/file/common/20241222/0822ec75ea366675863bceafb0fa8012.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-289098_lsd.m3u8?auth_key=1735001372-0-0-c5059f22a2871a72b6dd6b2084f49cbf",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-289098_lhd.m3u8?auth_key=1735001372-0-0-1dc7b5cf038c697ecbc2e756674517fc",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1734998400",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Philadelphia 76ers",
         "home_team_logo": "https://sta.vnres.co/file/common/20241222/91d19f717c24f88f716defa04d1701dc.png",
         "away_team_name": "San Antonio Spurs",
         "away_team_logo": "https://sta.vnres.co/file/common/20241222/7b2c70274a250156da55f535bd3cb325.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735001372-0-0-8aaa57d19bc9a0208dd8551845887597",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735001372-0-0-6ab1626ec83bc2036dc53d52a8c63a9c",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1734998400",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Charlotte Hornets",
         "home_team_logo": "https://sta.vnres.co/file/common/20241222/7c77c8a86b00c771af483741b9012c39.png",
         "away_team_name": "Houston Rockets",
         "away_team_logo": "https://sta.vnres.co/file/common/20241222/d0f5d75877d9ca3cbaf06d32a05f16d0.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735001372-0-0-349fe4d00d822405d54967be59903051",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735001372-0-0-d29c0ee92fce0214fb86ea058ed4c6a7",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735000200",

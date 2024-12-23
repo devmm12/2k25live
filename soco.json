@@ -550,47 +550,6 @@
         ]
     },
     {
-        "match_time": "1734915600",
-        "match_status": "live",
-        "home_team_name": "New Orleans Pelicans",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241221/d8fb4141432e73f20a9ce83e9095ed25.png",
-        "away_team_name": "Denver Nuggets",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241221/bfb236171b3dd64649fdc3bf248d0e01.png",
-        "league_name": "NBA",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=7f42d79d39751c5d298fb9d85777fea6&txTime=676924e9",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=90e22eb6c207d36b9277fdfa06c8eb79&txTime=676924e9",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1734926249-0-0-a9035b4073c3233c11f5797c834bd017",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1734926249-0-0-bcbca23cf726dfa4c4e34b8986177367",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-289098_lsd.m3u8?auth_key=1734925917-0-0-3a0836b5de82f39e099ba34ea9da9bbd",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-289098_lhd.m3u8?auth_key=1734925917-0-0-d79002286717b9d07679371c2ce1ad10",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1734940800",
         "match_status": "vs",
         "home_team_name": "FC Macarthur",

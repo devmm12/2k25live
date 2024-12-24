@@ -266,13 +266,54 @@
     },
     {
         "match_time": "1735021800",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Adelaide",
         "home_team_logo": "https://sta.vnres.co/file/common/20241222/c5adb08cb638542907237f6defc8f13d.png",
         "away_team_name": "Brisbane Bullets",
         "away_team_logo": "https://sta.vnres.co/file/common/20241222/6cd503b38af48d7fca75504ea0a39e88.png",
         "league_name": "NBL",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=fe4aaa27dda7f75f26606ed2a23468e5&txTime=676aa6d4",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=59fecf6fa652fd2e6f614e95936762e7&txTime=676aa6d4",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735024772-0-0-2e1301d209d5056b0e7e2f7570f8ae8a",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735024772-0-0-630967f4ff2f458a4a94856975abc1fb",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735024772-0-0-b2fe57b1f64940b718c9c65653591f01",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735024772-0-0-cf0f3ba7c9984b7e333d87bbfa392ed6",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=dfc715c7454a5eefcd22a1ab58ef3f7b&txTime=676aa6d4",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=1fba7d28442c577fe574386734bf1d12&txTime=676aa6d4",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735025400",

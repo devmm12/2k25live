@@ -172,12 +172,12 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-336975_lsd.m3u8?auth_key=1735073972-0-0-ff061a606f43579b649613d5ac68b3d4",
+                "stream_url": "https://pull.niues.live/live/stream-336975_lsd.m3u8?auth_key=1735074152-0-0-75afa297563fd027d04d46985e2afa87",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-336975_lhd.m3u8?auth_key=1735073972-0-0-99cf6e2cae608ed3f853132af9a931fa",
+                "stream_url": "https://pull.niues.live/live/stream-336975_lhd.m3u8?auth_key=1735074152-0-0-c209c6f2e804291d2c7108d8a3833f36",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -198,77 +198,6 @@
             {
                 "name": "Soco HD",
                 "stream_url": "https://pull.niues.live/live/stream-284856_lhd.m3u8?auth_key=1735063112-0-0-1a1173eca483d64077f1fcda2a84583f",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1735063200",
-        "match_status": "live",
-        "home_team_name": "Tala'ea El Gaish",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241221/94a14cf7ad97e63ab1c728e54a732afc.png",
-        "away_team_name": "Zamalek SC",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241221/3e3d842aebf6a4a9c9490a6ecb164eaa.png",
-        "league_name": "EGY D1",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-329740_lsd.m3u8?auth_key=1735073972-0-0-cdba893f018798197b8fe3a62cea8b64",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-329740_lhd.m3u8?auth_key=1735073972-0-0-d2128ec4408efa40b2c5d56a12232ccd",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-336975_lsd.m3u8?auth_key=1735073972-0-0-ff061a606f43579b649613d5ac68b3d4",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-336975_lhd.m3u8?auth_key=1735073972-0-0-99cf6e2cae608ed3f853132af9a931fa",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-299144_lsd.m3u8?auth_key=1735073972-0-0-2f2540ef14bedc7e1ac57956e4e212d3",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-299144_lhd.m3u8?auth_key=1735073972-0-0-69118a85f4026c36ef20cd416d9abd79",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1735073972-0-0-ef88415ce64121fdde58cdfd2957974b",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-308080_lhd.m3u8?auth_key=1735073972-0-0-8e3a9e40ccbeb498d41d18438d9eec75",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912092_lsd.m3u8?txSecret=bb4c35752cd5fc2a2956bfa81a5604b9&txTime=676b6704",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912092_lhd.m3u8?txSecret=954e16c5d2a524566d85b6fee33e1102&txTime=676b6704",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912081_lsd.m3u8?auth_key=1735073972-0-0-a5788967fbc0c09490242934608ea666",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912081_lhd.m3u8?auth_key=1735073972-0-0-1b8de61812be7f0c61ae24195e7e5499",
                 "referer": "https://socolivev.co/"
             }
         ]

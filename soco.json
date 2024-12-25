@@ -203,68 +203,6 @@
         ]
     },
     {
-        "match_time": "1735110000",
-        "match_status": "live",
-        "home_team_name": "Tasmania JackJumpers",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241223/93bda60e641f475553b227674e6d73f3.png",
-        "away_team_name": "New Zealand Breakers",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241223/a06d82d373dfa9a25bf9134cc12f4ac1.png",
-        "league_name": "NBL",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=17cea0926bb1e41b4c56b1dcf9f6a6ad&txTime=676c1dd4",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=e5da664ba699949746ab94535608f465&txTime=676c1dd4",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735120772-0-0-a29a0afebf32a8f39ef3d1222b9869c7",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735120772-0-0-fb3026c6ebfacd654db418bd81835710",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-289098_lsd.m3u8?auth_key=1735120772-0-0-63b6241fd3242d1f2d64619c11db2cbd",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-289098_lhd.m3u8?auth_key=1735120772-0-0-08c0c9c32f8676efd79c74c5c9d36c36",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1735110000",
-        "match_status": "live",
-        "home_team_name": "Seoul Knights",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241223/d0cd9d53e28ec35677c7822f0582490f.png",
-        "away_team_name": "Seoul Thunders",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241223/595da89b053a3c48d9ec443ee28c2362.png",
-        "league_name": "KBL",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735120292-0-0-2a79ec602a8917476afe23d854698454",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735120292-0-0-0321c42b03d6f3a803f7700b9fab59f1",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1735119000",
         "match_status": "vs",
         "home_team_name": "Sydney",

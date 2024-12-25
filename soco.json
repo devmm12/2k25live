@@ -203,47 +203,6 @@
         ]
     },
     {
-        "match_time": "1735119000",
-        "match_status": "live",
-        "home_team_name": "Sydney",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241223/48a147751e158665658f7b375d82d23b.png",
-        "away_team_name": "Illawarra Hawks",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241223/3a1bdc6b1ebe2752f3bacb9945329010.png",
-        "league_name": "NBL",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-289098_lsd.m3u8?auth_key=1735129772-0-0-65975ecd57b665fa18c2073ed768a6b5",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-289098_lhd.m3u8?auth_key=1735129772-0-0-67b2b0f63dbb0f7cc713ad4bb37a1c86",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735129772-0-0-8fe8754c6b87812cf4c331bcf2d647ba",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735129772-0-0-849b1c9b0272dccf5ccab575750bd640",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=4e5953bef32efd32fe0029b5a3ff8d01&txTime=676c40fc",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=d14be8c172465b419a97b5196f8e0bae&txTime=676c40fc",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1735126500",
         "match_status": "live",
         "home_team_name": "Guangdong",
@@ -254,12 +213,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=4e5953bef32efd32fe0029b5a3ff8d01&txTime=676c40fc",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=a3360248f71dc77b36c8d669cabad67c&txTime=676c4228",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=d14be8c172465b419a97b5196f8e0bae&txTime=676c40fc",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=84cbce8efdf73061f04f89825e0a2854&txTime=676c4228",
                 "referer": "https://socolivev.co/"
             }
         ]

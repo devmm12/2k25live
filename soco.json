@@ -213,12 +213,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=5308d00ef34679abd47d4ba5936596d8&txTime=676c4cb4",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=ef6c286ee6860806aaa16554c86e379e&txTime=676c4de0",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=1ee951dfc25b4a6fbe72a18e7cb6a685&txTime=676c4cb4",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=26975bb150d6d4e45921dd8a10cfae6d&txTime=676c4de0",
                 "referer": "https://socolivev.co/"
             }
         ]

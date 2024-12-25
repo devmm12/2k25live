@@ -203,48 +203,6 @@
         ]
     },
     {
-        "match_time": "1735102800",
-        "match_status": "live",
-        "home_team_name": "Goyang Sono",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241223/01768b109f3cbdaa85faa257edd24058.png",
-        "away_team_name": "Wonju DB",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241223/80c1d518027e4aaf8a344b9bf75c4afd.png",
-        "league_name": "KBL",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=a3bc1114bdf29a9013ad577bf850bdb3&txTime=676c01b4",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=e9647378941076df6163778c22ad3dfb&txTime=676c01b4",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1735102800",
-        "match_status": "live",
-        "home_team_name": "KCC Egis",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241223/bbc27e5d417a46b3de3a286c504e491a.png",
-        "away_team_name": "Anyang JungKwanJang",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241223/7a95558d1ecc702d2278fb054882005e.png",
-        "league_name": "KBL",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735113572-0-0-69be0472b08e22b7d589a555f82066fd",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735113572-0-0-879a3ea0e5072e8f4fd0a074b1f32fb8",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1735110000",
         "match_status": "live",
         "home_team_name": "Tasmania JackJumpers",
@@ -255,32 +213,32 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=a3bc1114bdf29a9013ad577bf850bdb3&txTime=676c01b4",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=6634ace58aa99a77cbd8c1e7413cfe8f&txTime=676c02e0",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=e9647378941076df6163778c22ad3dfb&txTime=676c01b4",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=2e2b97cb54e34663bebcd476d885badf&txTime=676c02e0",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735113572-0-0-69be0472b08e22b7d589a555f82066fd",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735113872-0-0-64711f5c6e20a81e2c456bd3d034333c",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735113572-0-0-879a3ea0e5072e8f4fd0a074b1f32fb8",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735113872-0-0-6495e67f684507e1276f0adb6b045aa6",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-289098_lsd.m3u8?auth_key=1735113572-0-0-2ba042c4122d403fdfcb84f9477bdf02",
+                "stream_url": "https://pull.niues.live/live/stream-289098_lsd.m3u8?auth_key=1735113872-0-0-c49941235aa1cab739f3b83770193a71",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-289098_lhd.m3u8?auth_key=1735113572-0-0-b7167f6aab0a111f7d1653f98701d1b9",
+                "stream_url": "https://pull.niues.live/live/stream-289098_lhd.m3u8?auth_key=1735113872-0-0-1f820a81141d197c27d69a665fca1b66",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -296,12 +254,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735113572-0-0-28336939412639fea6a9566024f9cbc3",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735113872-0-0-88476d13b94c380880272f4074e7adab",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735113572-0-0-3d0a67f9fe76e2cf30e4c0f4f8423a3e",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735113872-0-0-a4636ac4fac495ca3214f50b866a69cc",
                 "referer": "https://socolivev.co/"
             }
         ]

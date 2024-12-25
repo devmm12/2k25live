@@ -204,23 +204,45 @@
     },
     {
         "match_time": "1735102800",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Goyang Sono",
         "home_team_logo": "https://sta.vnres.co/file/common/20241223/01768b109f3cbdaa85faa257edd24058.png",
         "away_team_name": "Wonju DB",
         "away_team_logo": "https://sta.vnres.co/file/common/20241223/80c1d518027e4aaf8a344b9bf75c4afd.png",
         "league_name": "KBL",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=89c66f02a1bac58a48662d9e576a13a1&txTime=676be33c",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=b9aaab82eab007859ccacddbba2710cb&txTime=676be33c",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735102800",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "KCC Egis",
         "home_team_logo": "https://sta.vnres.co/file/common/20241223/bbc27e5d417a46b3de3a286c504e491a.png",
         "away_team_name": "Anyang JungKwanJang",
         "away_team_logo": "https://sta.vnres.co/file/common/20241223/7a95558d1ecc702d2278fb054882005e.png",
         "league_name": "KBL",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735105772-0-0-0f2731ff1c4a16d34e6e82944d9b9674",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735105772-0-0-39aa56c4f79ffc4bcac6c170ea1c10ab",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735110000",

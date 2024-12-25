@@ -224,47 +224,6 @@
         ]
     },
     {
-        "match_time": "1735153200",
-        "match_status": "live",
-        "home_team_name": "DHJ Difaa Hassani Jadidi",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241222/1e3aefaaaaa24217ffaeb5b0a22f4a92.png",
-        "away_team_name": "Raja Club Athletic",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241222/ab902fbcf6dc770d5635095f76a6f296.png",
-        "league_name": "MAR D1",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-371450_lsd.m3u8?auth_key=1735163672-0-0-32d1bcd3cd3c734034153f6ea4176c41",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-371450_lhd.m3u8?auth_key=1735163672-0-0-b68c6691c322c0b550fe9044cb7f8157",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912097_lsd.m3u8?auth_key=1735163672-0-0-bd04ed51770a8b5d512fada94eb4f99a",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1735163672-0-0-6e8a5711dd8989ff11f9bf116600c84f",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1735163672-0-0-0af3c16765d6e1c177e94b08a3dbfa18",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1735163672-0-0-d8c728bb1f86acacd5874fa32d223cb0",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1735174800",
         "match_status": "vs",
         "home_team_name": "Golden State Warriors",

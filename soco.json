@@ -224,47 +224,6 @@
         ]
     },
     {
-        "match_time": "1735201800",
-        "match_status": "live",
-        "home_team_name": "Cairns Taipans",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241224/512855bd837231ecda0b286e896c55a6.png",
-        "away_team_name": "Melbourne United",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241224/02c4bc1047f36df38c80c86bb3c84cab.png",
-        "league_name": "NBL",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735212572-0-0-d6b9fc38372856d32ea9e416308d7526",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735212572-0-0-0531dcdb3549d5c15cb23a47e86162e0",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-289098_lsd.m3u8?auth_key=1735212540-0-0-8f9d7a8f43adb26cc40a97f32a0aa1f7",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-289098_lhd.m3u8?auth_key=1735212540-0-0-4c4995da324d65847ac7b24a86488854",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735212572-0-0-403f70ec0763dc7603d4e0e835d78b8e",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735212572-0-0-8df540022e6b5108da5976e5a599abce",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1735212600",
         "match_status": "vs",
         "home_team_name": "Pisa",

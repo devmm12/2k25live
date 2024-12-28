@@ -345,12 +345,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-284856_lsd.m3u8?auth_key=1735433073-0-0-1b80d63cff968b98bc502c60f9686af8",
+                "stream_url": "https://pull.niues.live/live/stream-284856_lsd.m3u8?auth_key=1735433373-0-0-2103de6239d70d22bc611554d0f5cd23",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-284856_lhd.m3u8?auth_key=1735433073-0-0-4abcb5ce7581989c57f81569f7122fa0",
+                "stream_url": "https://pull.niues.live/live/stream-284856_lhd.m3u8?auth_key=1735433373-0-0-619e99803539d71d98aa0a50d376fa85",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -540,35 +540,56 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=4ef80801ad2672bb3a5aa3c93d2ae241&txTime=6770e1c1",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=7fc5043a848529a6edcffcb1d940de73&txTime=6770e2ed",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=8d59baff343083d185d961d07eaa30dd&txTime=6770e1c1",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=7a8a609743bca70e45b85a6ae75099d4&txTime=6770e2ed",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735433073-0-0-dfbba263d817c3d8d8d27e29e9a3bbe4",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735433373-0-0-e6d58cba19008137f6c6ffad58e4264b",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735433073-0-0-7b14bd8b67799003aafac313a5a22b9f",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735433373-0-0-8eaad986adec1c059c0e48a3b8eff832",
                 "referer": "https://socolivev.co/"
             }
         ]
     },
     {
         "match_time": "1735430400",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Washington Wizards",
         "home_team_logo": "https://sta.vnres.co/file/common/20241227/f9636d1c319221b2998b2f4b2a5ece7b.png",
         "away_team_name": "New York Knicks",
         "away_team_logo": "https://sta.vnres.co/file/common/20241227/7dc4bc06c1bbd99de1034dc8a5b2069f.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=e66e87cde1640f5a5987d5f714683544&txTime=6770e2ed",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=79fac22897adcb50ccb60b45671d37cc&txTime=6770e2ed",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735433373-0-0-25f12a2e5bbb3a03e91c0ef1ca47059d",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735433373-0-0-9a7dbb42c572a227b9a27b9c3be9669f",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735434000",

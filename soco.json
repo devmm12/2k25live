@@ -1,249 +1,5 @@
 [
     {
-        "match_time": "1735308000",
-        "match_status": "live",
-        "home_team_name": "Al Wehda",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241223/fb2b1d83f3f19f7555811aa8c23f0f2b.png",
-        "away_team_name": "Al-Jazeera",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241223/d19b47b87d3b5712cced8c392f51631b.png",
-        "league_name": "JOR D1",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-284856_lsd.m3u8?auth_key=1735408473-0-0-b835d9494a7e203ca207932c9e0b3b42",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-284856_lhd.m3u8?auth_key=1735408473-0-0-94412d7c9fdcaba08d8f27fbb109f55e",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=87347e7c51be18312137d19ee5747b83&txTime=677081a9",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=3544121bc87e051e81280d2800da8754&txTime=677081a9",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1735308000",
-        "match_status": "live",
-        "home_team_name": "Mohammedan SC",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241223/eae9c629b029e9d52662d0af18c8aaab.png",
-        "away_team_name": "Odisha FC",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241223/2672fe7863ca18596474b3a219af6fba.png",
-        "league_name": "IND SL",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-462413_lsd.m3u8?txSecret=8d588e7ca6cc3508160a5dc69a21db66&txTime=6770780f",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=1a7cb096e8561d060238d5f21e9cb952&txTime=6770780f",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1735408473-0-0-3d3a3d047b62666761cb6916d98124ba",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1735408473-0-0-de75a2aa486c04a16ae9158c01d9dfde",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1735401620-0-0-aec8ac35156d296df3b598d6daea21e3",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1735401620-0-0-c818ed37fe6d8d13a44753754cf53d7c",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-336975_lsd.m3u8?auth_key=1735406031-0-0-0539bc75d983e0ecae18f9fb962b560e",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-336975_lhd.m3u8?auth_key=1735406031-0-0-65aaded71a64958e68cf0c284dadeaf8",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9911957_lsd.m3u8?auth_key=1735407480-0-0-ff7efc9a505c36d13161e55a4618ca2f",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1735407480-0-0-314bdc10b2370d7580ac0af28338e201",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1735406054-0-0-377aa8991123bcd6da0f3c866b7f5fe4",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-308080_lhd.m3u8?auth_key=1735406054-0-0-f8ed410cb08014bd0b3c16ad4d6d46ff",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1735309800",
-        "match_status": "live",
-        "home_team_name": "Kuwait",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241223/2bfc3b930e26314c08b27620137d4b03.png",
-        "away_team_name": "Qatar",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241223/674674e423bc8b5ececa54957852f5cb.png",
-        "league_name": "GC",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=d12fa81812a2bbfa31e83ba28c5cafcc&txTime=67707dc6",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=58f6dfa60ed4fbaaff8bc7621a4efd67&txTime=67707dc6",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912009_lsd.m3u8?txSecret=0d86f482d2e68707921269b90a91b7b8&txTime=67707577",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912009_lhd.m3u8?txSecret=060117b9addd5a14a7fcd363aa050c13&txTime=67707577",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912035_lsd.m3u8?auth_key=1735407345-0-0-12c49c790d88da5778a63af6460dd8ac",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1735407345-0-0-1d14bdadc6b314e0258b8f7d9c55a6ff",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-486629_lsd.m3u8?auth_key=1735385644-0-0-5b841a6c11363186cea2072779f8fe05",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-486629_lhd.m3u8?auth_key=1735385644-0-0-fa3ae75d5238f7f9da09a3694f763b62",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-344370_lsd.m3u8?auth_key=1735407251-0-0-50de2fcb95c0e23efe906f0182a2d4f9",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-344370_lhd.m3u8?auth_key=1735407251-0-0-db6628ad9770811036ccdecfcec97d10",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912015_lsd.m3u8?auth_key=1735407165-0-0-a232e36b6e63aa737e9f722baf28f03d",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912015_lhd.m3u8?auth_key=1735407165-0-0-3b4c012a60341c949c4af3980f6503db",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1735309800",
-        "match_status": "live",
-        "home_team_name": "Oman",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241223/93a0f9665052a8a7aab4fe04c37dee1a.png",
-        "away_team_name": "United Arab Emirates",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241223/515993d9be1b6c7cbe681a315eca43ac.png",
-        "league_name": "GC",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-364855_lsd.m3u8?txSecret=13111065bbc5c8b2bf5356a63eb39ec7&txTime=677081a9",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-364855_lhd.m3u8?txSecret=2ab07cc78f89a214262fa923bd8c17a3&txTime=677081a9",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1735408473-0-0-46702cc0fb2d6ba2510ce999a6b827a8",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1735408473-0-0-d6b19a0862a55fc979b86c47934094d9",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-313971_lsd.m3u8?auth_key=1735395993-0-0-e26c840adb371b43e074be2cf4c32e87",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1735395993-0-0-87e17c39fb91e1a2e13421f7fe1478c3",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1735408473-0-0-cd41a7e0d47037aaf0cc36a20ef9417e",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1735408473-0-0-1b3610bfb605c0819051b365269f9de9",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=db414b488f94dab63f289e7e109471db&txTime=677081a9",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=d8c9ede633cf6007c5b7568509274f6a&txTime=677081a9",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=5bfacd095927cf7c30dc10ef2776c558&txTime=677081a9",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=244352f6edad6ccb7811ba36f0559592&txTime=677081a9",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1735394400",
         "match_status": "live",
         "home_team_name": "Empoli",
@@ -274,22 +30,22 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912096_lsd.m3u8?auth_key=1735408473-0-0-3b74c935ddba2bc351831a6e8538f5cd",
+                "stream_url": "https://pull.niues.live/live/stream-9912096_lsd.m3u8?auth_key=1735408773-0-0-5cf5d9856badbbdfda65eefad3172754",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912096_lhd.m3u8?auth_key=1735408473-0-0-3e8ddb6e80411cb50cc45f5e4478ba7e",
+                "stream_url": "https://pull.niues.live/live/stream-9912096_lhd.m3u8?auth_key=1735408773-0-0-870eaec4bae5dee2b3e010d5c2e6a64a",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912100_lsd.m3u8?auth_key=1735408473-0-0-f024e4004e0d9eb14312b942856272e2",
+                "stream_url": "https://pull.niues.live/live/stream-9912100_lsd.m3u8?auth_key=1735408773-0-0-8e5bbb816e7729ecd692adc6afd8d271",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912100_lhd.m3u8?auth_key=1735408473-0-0-e5c6c4c4a6879bfe7c1994cf7d8115ff",
+                "stream_url": "https://pull.niues.live/live/stream-9912100_lhd.m3u8?auth_key=1735408773-0-0-ceb7fdeda16193cda03d25aaf87d0e8f",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -355,22 +111,22 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9911977_lsd.m3u8?txSecret=a2686c88211edaddcc1b27ceda11768e&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-9911977_lsd.m3u8?txSecret=ca889638151ac0eb9fb860766d117cdc&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9911977_lhd.m3u8?txSecret=8df94b117bc3b14b55e9ee6ee2a68b90&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-9911977_lhd.m3u8?txSecret=bcb1ca0567eb728d6c1593b915f5d5fd&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=1c705315f9b37810ada819e054dd01d3&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=987ddf97904bd8daec4b40f24c2c89e2&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=a1e5002de24efe047bf440fbda017eb1&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=7b592c36b540bfecb127ac45a1d4ae8d&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -457,12 +213,12 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1735408473-0-0-0feda34fb94ea624ed84e8d571b2b62e",
+                "stream_url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1735408773-0-0-740c35f8c5d72b2835fff0c712cfaab5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1735408473-0-0-4b3f097e6106161165e9001852e0d85a",
+                "stream_url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1735408773-0-0-18955da72e29c9aa066015c4273ed7d7",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -477,32 +233,32 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1735408473-0-0-3d3a3d047b62666761cb6916d98124ba",
+                "stream_url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1735408773-0-0-17569c20028ee3df0e446d090389ca08",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1735408473-0-0-de75a2aa486c04a16ae9158c01d9dfde",
+                "stream_url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1735408773-0-0-eab9cce800b742e8bf825346dae77784",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1735408473-0-0-2e742d563fb13869bf2bd79e23b93646",
+                "stream_url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1735408773-0-0-b1485df6c30dd8e2e2be9804b6846464",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1735408473-0-0-403fbb70827b864f7b62c03da9fc657c",
+                "stream_url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1735408773-0-0-a1943fe01b16b9698dc563063d052f81",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-485739_lsd.m3u8?auth_key=1735408473-0-0-ce9553fb8b3de0b0211e8ae8fa08d375",
+                "stream_url": "https://pull.niues.live/live/stream-485739_lsd.m3u8?auth_key=1735408773-0-0-b7eaa73106a7d75d533a61c19defb00f",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-485739_lhd.m3u8?auth_key=1735408473-0-0-78cc6779f3011e8f62135ea24e27e753",
+                "stream_url": "https://pull.niues.live/live/stream-485739_lhd.m3u8?auth_key=1735408773-0-0-cc3a54692e32dae1906f2c2793404637",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -548,22 +304,22 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=0de94dcae3a5f308d082ddd3659b24bc&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=a35cf8e0a0b065a59a904e9c3acf4652&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=eec850ead77b0abf21cc618e02a7af63&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=cc3d2ef654c5216344c74d3a52fb3015&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1735408473-0-0-6e0c2f0d1e03a74e37aa344690fb7162",
+                "stream_url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1735408773-0-0-a08166989837987be04ace2aae8c0138",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1735408473-0-0-0b7d5116abf31b132ef581668c6e871f",
+                "stream_url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1735408773-0-0-bcd983b54382c5f802f048a575a64adf",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -589,22 +345,22 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-284856_lsd.m3u8?auth_key=1735408473-0-0-b835d9494a7e203ca207932c9e0b3b42",
+                "stream_url": "https://pull.niues.live/live/stream-284856_lsd.m3u8?auth_key=1735408773-0-0-f1d8cb801b8a2715576195442cb44fdf",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-284856_lhd.m3u8?auth_key=1735408473-0-0-94412d7c9fdcaba08d8f27fbb109f55e",
+                "stream_url": "https://pull.niues.live/live/stream-284856_lhd.m3u8?auth_key=1735408773-0-0-497259afa5ae83b86523e9b1626c4790",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1735408473-0-0-d97828e6fd5117ce6abf85cfc07961d0",
+                "stream_url": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1735408810-0-0-d2fa4c407697d6ff263fb17fb7809922",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1735408473-0-0-df8d4bee2f98e98f7b1a17a0f1b98ea3",
+                "stream_url": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1735408810-0-0-0d06d8601773612a52881f83f31d23a7",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -620,22 +376,22 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1735408473-0-0-869c52c432688ef3911ddecab1547f04",
+                "stream_url": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1735408773-0-0-54b50fb72d01103591e2e59ae6d8d663",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1735408473-0-0-e5d5eda2fb8035324d1ba0186638664f",
+                "stream_url": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1735408773-0-0-891d4ddf0399ff84d5326c3ecd4518e1",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-371450_lsd.m3u8?auth_key=1735408473-0-0-bfa92ce894a6fcb6efcff596e1b738f4",
+                "stream_url": "https://pull.niues.live/live/stream-371450_lsd.m3u8?auth_key=1735408773-0-0-2bddd064c03fe56df31fad1b7398c3a0",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-371450_lhd.m3u8?auth_key=1735408473-0-0-fab0c67315b7ae0ac11caa80093dfeb1",
+                "stream_url": "https://pull.niues.live/live/stream-371450_lhd.m3u8?auth_key=1735408773-0-0-aa9e0b38beadb9906b3240f7b6c6331b",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -651,62 +407,62 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=db414b488f94dab63f289e7e109471db&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=5c4c6115bb661c7320d8f3c3b6fb4092&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=d8c9ede633cf6007c5b7568509274f6a&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=7de93de3ceca68739ff2d846c893e837&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1735408473-0-0-e30ec9a2b19aa74f66f47719a6a6f349",
+                "stream_url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1735408773-0-0-ce25ddf720de3886229aba61bbcd0502",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1735408473-0-0-bf0ffbab9870f3321c41f76df1fe4a9a",
+                "stream_url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1735408773-0-0-ece8cfa92aeced9c3dd0c55a920957e0",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-477560_lsd.m3u8?auth_key=1735408473-0-0-72b140f916fa6e24013f168591c8861a",
+                "stream_url": "https://pull.niues.live/live/stream-477560_lsd.m3u8?auth_key=1735408773-0-0-eb76ebf38cca816adf03de7858bf0419",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1735408473-0-0-0af54406a94febe2e823916c06e57626",
+                "stream_url": "https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1735408773-0-0-d915db4e2202d5cb1f9b5b9878667861",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-334434_lsd.m3u8?auth_key=1735408473-0-0-0d6b5431782313f522f5aaa69534d47a",
+                "stream_url": "https://pull.niues.live/live/stream-334434_lsd.m3u8?auth_key=1735408773-0-0-2089c08f697c4f4de36465e90e77236c",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key=1735408473-0-0-1bb603e2520ce3f7857a0de0ee27e60f",
+                "stream_url": "https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key=1735408773-0-0-63df83839072e951f4c47593056b0169",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-299144_lsd.m3u8?auth_key=1735408473-0-0-618e6c8af5e699f4b9d1101582f7b080",
+                "stream_url": "https://pull.niues.live/live/stream-299144_lsd.m3u8?auth_key=1735408773-0-0-e76c9f3a077751dfc6070ed3d0dee431",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-299144_lhd.m3u8?auth_key=1735408473-0-0-d76ff4107322171436d69cc0ed8d34e8",
+                "stream_url": "https://pull.niues.live/live/stream-299144_lhd.m3u8?auth_key=1735408773-0-0-973310202f19f14329bfae3013a4ba9c",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1735408473-0-0-8856d8e9f2c1f51864587da79dc5fadf",
+                "stream_url": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1735408773-0-0-d45b24e8bb22ae9304907ddaec924432",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1735408473-0-0-5ea329aa7c0b40b47a043ca636c1ab81",
+                "stream_url": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1735408773-0-0-3184f965e073b6db8c34710f3b098bbf",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -722,22 +478,22 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1735408473-0-0-54d7b9a98e47a678869d3596ca5ce350",
+                "stream_url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1735408773-0-0-9eba190cee99ef891f1b1036094dc7c8",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1735408473-0-0-17151acabcfc40c27281b0633ddf247a",
+                "stream_url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1735408773-0-0-8ad6fd1bd7e2fca8117432bbefa74e5e",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1735408473-0-0-11f01489e8004a752be8efe3a5dd9b72",
+                "stream_url": "https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1735408773-0-0-db10bc9487c176780f242982f97d6ee5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1735408473-0-0-fdaf66d524ba776147f9ba6685c373a8",
+                "stream_url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1735408773-0-0-3589ed939cbb056399a730bb184e87e9",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -753,84 +509,22 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1735408473-0-0-cd41a7e0d47037aaf0cc36a20ef9417e",
+                "stream_url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1735408773-0-0-0cd3a08f487fc5af87aac326d32598f9",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1735408473-0-0-1b3610bfb605c0819051b365269f9de9",
+                "stream_url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1735408773-0-0-c4a3f2c6b802a8fda19834f0fab6d85b",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-381230_lsd.m3u8?auth_key=1735408473-0-0-03627ae302ef63b9ea18962430413162",
+                "stream_url": "https://pull.niues.live/live/stream-381230_lsd.m3u8?auth_key=1735408773-0-0-4e0fa94c3494183190bd831b2345a27b",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-381230_lhd.m3u8?auth_key=1735408473-0-0-78d94cc0e62020a5b0a83d91dba59199",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1735398000",
-        "match_status": "live",
-        "home_team_name": "Ittihad Riadi Tanger",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241224/f3931d73cb65ffa1995ddf33f16c9587.png",
-        "away_team_name": "Hassania Agadir",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241224/70532554d0599300b5bb7d5355a6276c.png",
-        "league_name": "MAR D1",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-284856_lsd.m3u8?auth_key=1735408473-0-0-b835d9494a7e203ca207932c9e0b3b42",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-284856_lhd.m3u8?auth_key=1735408473-0-0-94412d7c9fdcaba08d8f27fbb109f55e",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-285067_lsd.m3u8?auth_key=1735408473-0-0-d97828e6fd5117ce6abf85cfc07961d0",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-285067_lhd.m3u8?auth_key=1735408473-0-0-df8d4bee2f98e98f7b1a17a0f1b98ea3",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1735398000",
-        "match_status": "live",
-        "home_team_name": "Renaissance Zmamra",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241224/d4f552663b433b55306bd15696247a81.png",
-        "away_team_name": "CODM Meknes",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241224/07e558de0c41c9150462f0ab752c1bd1.png",
-        "league_name": "MAR D1",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-459401_lsd.m3u8?auth_key=1735408473-0-0-869c52c432688ef3911ddecab1547f04",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-459401_lhd.m3u8?auth_key=1735408473-0-0-e5d5eda2fb8035324d1ba0186638664f",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-371450_lsd.m3u8?auth_key=1735408473-0-0-bfa92ce894a6fcb6efcff596e1b738f4",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-371450_lhd.m3u8?auth_key=1735408473-0-0-fab0c67315b7ae0ac11caa80093dfeb1",
+                "stream_url": "https://pull.niues.live/live/stream-381230_lhd.m3u8?auth_key=1735408773-0-0-765135e099e96463e37e00530bd7a83f",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -846,62 +540,62 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=db414b488f94dab63f289e7e109471db&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=5c4c6115bb661c7320d8f3c3b6fb4092&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=d8c9ede633cf6007c5b7568509274f6a&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=7de93de3ceca68739ff2d846c893e837&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1735408473-0-0-e30ec9a2b19aa74f66f47719a6a6f349",
+                "stream_url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1735408773-0-0-ce25ddf720de3886229aba61bbcd0502",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1735408473-0-0-bf0ffbab9870f3321c41f76df1fe4a9a",
+                "stream_url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1735408773-0-0-ece8cfa92aeced9c3dd0c55a920957e0",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-477560_lsd.m3u8?auth_key=1735408473-0-0-72b140f916fa6e24013f168591c8861a",
+                "stream_url": "https://pull.niues.live/live/stream-477560_lsd.m3u8?auth_key=1735408773-0-0-eb76ebf38cca816adf03de7858bf0419",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1735408473-0-0-0af54406a94febe2e823916c06e57626",
+                "stream_url": "https://pull.niues.live/live/stream-477560_lhd.m3u8?auth_key=1735408773-0-0-d915db4e2202d5cb1f9b5b9878667861",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-334434_lsd.m3u8?auth_key=1735408473-0-0-0d6b5431782313f522f5aaa69534d47a",
+                "stream_url": "https://pull.niues.live/live/stream-334434_lsd.m3u8?auth_key=1735408773-0-0-2089c08f697c4f4de36465e90e77236c",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key=1735408473-0-0-1bb603e2520ce3f7857a0de0ee27e60f",
+                "stream_url": "https://pull.niues.live/live/stream-334434_lhd.m3u8?auth_key=1735408773-0-0-63df83839072e951f4c47593056b0169",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-299144_lsd.m3u8?auth_key=1735408473-0-0-618e6c8af5e699f4b9d1101582f7b080",
+                "stream_url": "https://pull.niues.live/live/stream-299144_lsd.m3u8?auth_key=1735408773-0-0-e76c9f3a077751dfc6070ed3d0dee431",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-299144_lhd.m3u8?auth_key=1735408473-0-0-d76ff4107322171436d69cc0ed8d34e8",
+                "stream_url": "https://pull.niues.live/live/stream-299144_lhd.m3u8?auth_key=1735408773-0-0-973310202f19f14329bfae3013a4ba9c",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1735408473-0-0-8856d8e9f2c1f51864587da79dc5fadf",
+                "stream_url": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1735408773-0-0-d45b24e8bb22ae9304907ddaec924432",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1735408473-0-0-5ea329aa7c0b40b47a043ca636c1ab81",
+                "stream_url": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1735408773-0-0-3184f965e073b6db8c34710f3b098bbf",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -917,22 +611,22 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1735408473-0-0-54d7b9a98e47a678869d3596ca5ce350",
+                "stream_url": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1735408773-0-0-9eba190cee99ef891f1b1036094dc7c8",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1735408473-0-0-17151acabcfc40c27281b0633ddf247a",
+                "stream_url": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1735408773-0-0-8ad6fd1bd7e2fca8117432bbefa74e5e",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1735408473-0-0-11f01489e8004a752be8efe3a5dd9b72",
+                "stream_url": "https://pull.niues.live/live/stream-491873_lsd.m3u8?auth_key=1735408773-0-0-db10bc9487c176780f242982f97d6ee5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1735408473-0-0-fdaf66d524ba776147f9ba6685c373a8",
+                "stream_url": "https://pull.niues.live/live/stream-491873_lhd.m3u8?auth_key=1735408773-0-0-3589ed939cbb056399a730bb184e87e9",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -948,22 +642,22 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1735408473-0-0-cd41a7e0d47037aaf0cc36a20ef9417e",
+                "stream_url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1735408773-0-0-0cd3a08f487fc5af87aac326d32598f9",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1735408473-0-0-1b3610bfb605c0819051b365269f9de9",
+                "stream_url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1735408773-0-0-c4a3f2c6b802a8fda19834f0fab6d85b",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-381230_lsd.m3u8?auth_key=1735408473-0-0-03627ae302ef63b9ea18962430413162",
+                "stream_url": "https://pull.niues.live/live/stream-381230_lsd.m3u8?auth_key=1735408773-0-0-4e0fa94c3494183190bd831b2345a27b",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-381230_lhd.m3u8?auth_key=1735408473-0-0-78d94cc0e62020a5b0a83d91dba59199",
+                "stream_url": "https://pull.niues.live/live/stream-381230_lhd.m3u8?auth_key=1735408773-0-0-765135e099e96463e37e00530bd7a83f",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -979,62 +673,62 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=5bfacd095927cf7c30dc10ef2776c558&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-356042_lsd.m3u8?txSecret=b304fe6962dc078a27f7b1e1e6a90c61&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=244352f6edad6ccb7811ba36f0559592&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=d67c9f809af8b4852df9b05dc27012c4&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-364855_lsd.m3u8?txSecret=13111065bbc5c8b2bf5356a63eb39ec7&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-364855_lsd.m3u8?txSecret=ebd50f421bf1372304a347592dd084a0&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-364855_lhd.m3u8?txSecret=2ab07cc78f89a214262fa923bd8c17a3&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-364855_lhd.m3u8?txSecret=4f5ebfb180bc93f71c7cb5f600ff84b1&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1735408473-0-0-f7a7d6d3a4e0e4245679141b45132c8f",
+                "stream_url": "https://pull.niues.live/live/stream-472241_lsd.m3u8?auth_key=1735408773-0-0-7f52a3dbbbee93626bbb1fb0830f2542",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1735408473-0-0-a8ef99406a9fd1ea33027f83a1aab99f",
+                "stream_url": "https://pull.niues.live/live/stream-472241_lhd.m3u8?auth_key=1735408773-0-0-2f60cb4314783457c63c99223880c1f8",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-427856_lsd.m3u8?auth_key=1735408480-0-0-1b689a4b6f5e47e51a6292dfb2fc6a7e",
+                "stream_url": "https://pull.niues.live/live/stream-427856_lsd.m3u8?auth_key=1735408773-0-0-902ed71e29ac187f93215974af5348f2",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-427856_lhd.m3u8?auth_key=1735408480-0-0-b1fbaf4542d5b395190a3b996a3d3857",
+                "stream_url": "https://pull.niues.live/live/stream-427856_lhd.m3u8?auth_key=1735408773-0-0-730ac7be8231ab3b665c70517d2220ad",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1735408473-0-0-97d2533a74a7eab0618929d8df965f7c",
+                "stream_url": "https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1735408773-0-0-e9b37c62d1ae9a280e1d4ec6a3b376a8",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1735408473-0-0-a8e5c73aa9ed67668c34f670b2631a0d",
+                "stream_url": "https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1735408773-0-0-018c4d7b4d8e219dca3cecfb79ab27fa",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912048_lsd.m3u8?txSecret=457d972c8cf822440a6134fcd2408a59&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-9912048_lsd.m3u8?txSecret=e8712f0a512defb5903c23b33e15b173&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912048_lhd.m3u8?txSecret=6894fa497bff038bee2938df8cfb61d8&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-9912048_lhd.m3u8?txSecret=16d017ab507ffd7151b938561cf9b1cf&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -1050,62 +744,62 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=0de94dcae3a5f308d082ddd3659b24bc&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-9912101_lsd.m3u8?txSecret=a35cf8e0a0b065a59a904e9c3acf4652&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=eec850ead77b0abf21cc618e02a7af63&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-9912101_lhd.m3u8?txSecret=cc3d2ef654c5216344c74d3a52fb3015&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1735408473-0-0-46702cc0fb2d6ba2510ce999a6b827a8",
+                "stream_url": "https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1735408773-0-0-245d86d32109dca132af5722d328acae",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1735408473-0-0-d6b19a0862a55fc979b86c47934094d9",
+                "stream_url": "https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1735408773-0-0-9c605562d5afb8cb601626db2db78035",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912096_lsd.m3u8?auth_key=1735408473-0-0-3b74c935ddba2bc351831a6e8538f5cd",
+                "stream_url": "https://pull.niues.live/live/stream-9912096_lsd.m3u8?auth_key=1735408773-0-0-5cf5d9856badbbdfda65eefad3172754",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912096_lhd.m3u8?auth_key=1735408473-0-0-3e8ddb6e80411cb50cc45f5e4478ba7e",
+                "stream_url": "https://pull.niues.live/live/stream-9912096_lhd.m3u8?auth_key=1735408773-0-0-870eaec4bae5dee2b3e010d5c2e6a64a",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912100_lsd.m3u8?auth_key=1735408473-0-0-f024e4004e0d9eb14312b942856272e2",
+                "stream_url": "https://pull.niues.live/live/stream-9912100_lsd.m3u8?auth_key=1735408773-0-0-8e5bbb816e7729ecd692adc6afd8d271",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912100_lhd.m3u8?auth_key=1735408473-0-0-e5c6c4c4a6879bfe7c1994cf7d8115ff",
+                "stream_url": "https://pull.niues.live/live/stream-9912100_lhd.m3u8?auth_key=1735408773-0-0-ceb7fdeda16193cda03d25aaf87d0e8f",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9911977_lsd.m3u8?txSecret=a2686c88211edaddcc1b27ceda11768e&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-9911977_lsd.m3u8?txSecret=ca889638151ac0eb9fb860766d117cdc&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9911977_lhd.m3u8?txSecret=8df94b117bc3b14b55e9ee6ee2a68b90&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-9911977_lhd.m3u8?txSecret=bcb1ca0567eb728d6c1593b915f5d5fd&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=1c705315f9b37810ada819e054dd01d3&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-9912060_lsd.m3u8?txSecret=987ddf97904bd8daec4b40f24c2c89e2&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=a1e5002de24efe047bf440fbda017eb1&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-9912060_lhd.m3u8?txSecret=7b592c36b540bfecb127ac45a1d4ae8d&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -1121,22 +815,22 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-485739_lsd.m3u8?auth_key=1735408473-0-0-ce9553fb8b3de0b0211e8ae8fa08d375",
+                "stream_url": "https://pull.niues.live/live/stream-485739_lsd.m3u8?auth_key=1735408773-0-0-b7eaa73106a7d75d533a61c19defb00f",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-485739_lhd.m3u8?auth_key=1735408473-0-0-78cc6779f3011e8f62135ea24e27e753",
+                "stream_url": "https://pull.niues.live/live/stream-485739_lhd.m3u8?auth_key=1735408773-0-0-cc3a54692e32dae1906f2c2793404637",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1735408473-0-0-6e0c2f0d1e03a74e37aa344690fb7162",
+                "stream_url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1735408773-0-0-a08166989837987be04ace2aae8c0138",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1735408473-0-0-0b7d5116abf31b132ef581668c6e871f",
+                "stream_url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1735408773-0-0-bcd983b54382c5f802f048a575a64adf",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -1152,42 +846,42 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1735408473-0-0-0feda34fb94ea624ed84e8d571b2b62e",
+                "stream_url": "https://pull.niues.live/live/stream-991140_lsd.m3u8?auth_key=1735408773-0-0-740c35f8c5d72b2835fff0c712cfaab5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1735408473-0-0-4b3f097e6106161165e9001852e0d85a",
+                "stream_url": "https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1735408773-0-0-18955da72e29c9aa066015c4273ed7d7",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1735408473-0-0-3d3a3d047b62666761cb6916d98124ba",
+                "stream_url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1735408773-0-0-17569c20028ee3df0e446d090389ca08",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1735408473-0-0-de75a2aa486c04a16ae9158c01d9dfde",
+                "stream_url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1735408773-0-0-eab9cce800b742e8bf825346dae77784",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1735408473-0-0-2e742d563fb13869bf2bd79e23b93646",
+                "stream_url": "https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1735408773-0-0-b1485df6c30dd8e2e2be9804b6846464",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1735408473-0-0-403fbb70827b864f7b62c03da9fc657c",
+                "stream_url": "https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1735408773-0-0-a1943fe01b16b9698dc563063d052f81",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=87347e7c51be18312137d19ee5747b83&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=9ae84e1a0393ac3dd04bd0cfafae6f36&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=3544121bc87e051e81280d2800da8754&txTime=677081a9",
+                "stream_url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=62342e920c40999209b83c142fc480e5&txTime=677082d5",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -1649,6 +1343,306 @@
         "home_team_logo": "https://sta.vnres.co/file/common/20241225/c3d887c49c8883c3b8f657367ff8116d.png",
         "away_team_name": "Shabab AlAhli",
         "away_team_logo": "https://sta.vnres.co/file/common/20241225/18d53b3a3baccb2a9f4ef1fe8f03920d.png",
+        "league_name": "UAE EC",
+        "servers": []
+    },
+    {
+        "match_time": "1735488900",
+        "match_status": "vs",
+        "home_team_name": "Catanzaro",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/4e5e2fded3867189355faef242e903d6.png",
+        "away_team_name": "Salernitana",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/799035136fbf303984325ce7624ba9ec.png",
+        "league_name": "ITA D2",
+        "servers": []
+    },
+    {
+        "match_time": "1735488900",
+        "match_status": "vs",
+        "home_team_name": "Cittadella",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/cf9a6374e3bff932f6ce452fb7192d6e.png",
+        "away_team_name": "Palermo",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/20e4435620c91d1e9ca275e04e684c22.png",
+        "league_name": "ITA D2",
+        "servers": []
+    },
+    {
+        "match_time": "1735488900",
+        "match_status": "vs",
+        "home_team_name": "Juve Stabia",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/327ed8bf4ddb041ddb47c22bd69bf69d.png",
+        "away_team_name": "Frosinone",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/9883392d9344469bf3e6ac0364b0059e.png",
+        "league_name": "ITA D2",
+        "servers": []
+    },
+    {
+        "match_time": "1735491600",
+        "match_status": "vs",
+        "home_team_name": "Juventus",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/a95b219231e34c0ad017739ba68e2258.png",
+        "away_team_name": "Fiorentina",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/aedd9a9e15cd99c3481ad4845de1b25e.png",
+        "league_name": "ITA D1",
+        "servers": []
+    },
+    {
+        "match_time": "1735491600",
+        "match_status": "vs",
+        "home_team_name": "FAR Rabat",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/ea6aa22682053a9406768c03cde484b2.png",
+        "away_team_name": "SCCM Chabab Mohamedia",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/f8443bf2bbbaa197aabf759336ee77bc.png",
+        "league_name": "MAR D1",
+        "servers": []
+    },
+    {
+        "match_time": "1735492500",
+        "match_status": "vs",
+        "home_team_name": "Dundee United",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/fb9eb2abfd21846e0cc40cd279a6b992.png",
+        "away_team_name": "Aberdeen",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/60ba03d56d5697ef5cd6db81700bfbc7.png",
+        "league_name": "SCO PR",
+        "servers": []
+    },
+    {
+        "match_time": "1735492500",
+        "match_status": "vs",
+        "home_team_name": "West Ham United",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/9f8a7562ff9fd4d61923f465318647c3.png",
+        "away_team_name": "Liverpool",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/b7d532b73e27c809a225a958bddd4004.png",
+        "league_name": "ENG PR",
+        "servers": []
+    },
+    {
+        "match_time": "1735494300",
+        "match_status": "vs",
+        "home_team_name": "Derby County",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/31df851fbf8fd43453dbb867f9f40c60.png",
+        "away_team_name": "Leeds United",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/4ae612254553cff6288bc4168a526304.png",
+        "league_name": "ENG LCH",
+        "servers": []
+    },
+    {
+        "match_time": "1735495200",
+        "match_status": "vs",
+        "home_team_name": "Sporting Braga",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/784e09b25d496b0409e6df442f7bd509.png",
+        "away_team_name": "Casa Pia AC",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/9cb2d6de82740b370d1521c4b197871d.png",
+        "league_name": "POR D1",
+        "servers": []
+    },
+    {
+        "match_time": "1735495200",
+        "match_status": "vs",
+        "home_team_name": "Zamalek SC",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/73b829d078f70a1bfdfa5c5240fce88a.png",
+        "away_team_name": "Ittihad Alexandria SC",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/70e91b5b145fe3577cd4c37bd4e98e49.png",
+        "league_name": "EGY D1",
+        "servers": []
+    },
+    {
+        "match_time": "1735497000",
+        "match_status": "vs",
+        "home_team_name": "Sampdoria",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/2a25b1e40b6b9f6348d7329e2ebe742f.png",
+        "away_team_name": "Pisa",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/629404720cacde2aa1f952a1895f5979.png",
+        "league_name": "ITA D2",
+        "servers": []
+    },
+    {
+        "match_time": "1735498800",
+        "match_status": "vs",
+        "home_team_name": "Renaissance de Berkane",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/48bbd7b4724dd15bea643efbd85a071f.png",
+        "away_team_name": "Raja Club Athletic",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/774a0eefe17c0ef55b844d9951579635.png",
+        "league_name": "MAR D1",
+        "servers": []
+    },
+    {
+        "match_time": "1735501500",
+        "match_status": "vs",
+        "home_team_name": "AC Milan",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/4ab11614a90af93a78d8d7c710cb4f66.png",
+        "away_team_name": "AS Roma",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/6c845416e29bfde02583dcf6f795d746.png",
+        "league_name": "ITA D1",
+        "servers": []
+    },
+    {
+        "match_time": "1735502400",
+        "match_status": "vs",
+        "home_team_name": "Middlesbrough",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/156784b96147e1ea93fd4a32c28d70fa.png",
+        "away_team_name": "Burnley",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/2895c451834b67896dbba3525219f6ac.png",
+        "league_name": "ENG LCH",
+        "servers": []
+    },
+    {
+        "match_time": "1735504200",
+        "match_status": "vs",
+        "home_team_name": "Sporting CP",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/6dbf7281f0602f570753af25cbe87859.png",
+        "away_team_name": "Benfica",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/c6621f262fe3610a86de7e1ef3d8e0c7.png",
+        "league_name": "POR D1",
+        "servers": []
+    },
+    {
+        "match_time": "1735513200",
+        "match_status": "vs",
+        "home_team_name": "Waterhouse FC",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/4f996913410084c2f15da5291383ba7f.png",
+        "away_team_name": "Mount Pleasant FA",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/8f2ae7f2af3de249606f0296ebb0060c.png",
+        "league_name": "Jam D1",
+        "servers": []
+    },
+    {
+        "match_time": "1735516800",
+        "match_status": "vs",
+        "home_team_name": "Arnett Gardens",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/85439bd4ef38796cec0a1a09bb37f593.png",
+        "away_team_name": "Chapelton",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/7b9888903c0320052f26ad74a1c79e4f.png",
+        "league_name": "Jam D1",
+        "servers": []
+    },
+    {
+        "match_time": "1735516800",
+        "match_status": "vs",
+        "home_team_name": "Houston Rockets",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241228/671e110999a4ff78a47fa61643115739.png",
+        "away_team_name": "Miami Heat",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241228/c1d1d125ca49598777531bbc891b77f1.png",
+        "league_name": "NBA",
+        "servers": []
+    },
+    {
+        "match_time": "1735516800",
+        "match_status": "vs",
+        "home_team_name": "Oklahoma City Thunder",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241228/2b9bc0a2b560dc76538969fb70a58b59.png",
+        "away_team_name": "Memphis Grizzlies",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241228/cc0ab1677fc57487302b3629cb6464d0.png",
+        "league_name": "NBA",
+        "servers": []
+    },
+    {
+        "match_time": "1735520400",
+        "match_status": "vs",
+        "home_team_name": "Minnesota Timberwolves",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241228/4de2882766df9da8cbe045408695a79e.png",
+        "away_team_name": "San Antonio Spurs",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241228/f16cee4e63394a47a090e2ef3581986f.png",
+        "league_name": "NBA",
+        "servers": []
+    },
+    {
+        "match_time": "1735535100",
+        "match_status": "vs",
+        "home_team_name": "Shiga",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241228/3b43fb3c6c34deda52db02c5d67df30b.png",
+        "away_team_name": "Koshigaya Alphas",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241228/6c1747bff18d0f3e1fdfc0e4599b3e2c.png",
+        "league_name": "JB1",
+        "servers": []
+    },
+    {
+        "match_time": "1735538400",
+        "match_status": "vs",
+        "home_team_name": "Sydney W",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241228/cf181930bd21176d5c44a20a4566e9a9.png",
+        "away_team_name": "Southside W",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241228/5e921f8b68a735b036c6d4d6385a54f2.png",
+        "league_name": "WNBL",
+        "servers": []
+    },
+    {
+        "match_time": "1735543800",
+        "match_status": "vs",
+        "home_team_name": "PVF Vietnam U19",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/5f92e976fb0a0da85489d2f87f5d3007.png",
+        "away_team_name": "Vinh Phuc U19",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/d583b5032dfa13e0d46ecb9fca041037.png",
+        "league_name": "VIE U19",
+        "servers": []
+    },
+    {
+        "match_time": "1735547400",
+        "match_status": "vs",
+        "home_team_name": "Sydney",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241228/beea9d33ce2b6d0a1947a8f1ba259d42.png",
+        "away_team_name": "Adelaide",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241228/716f6d6c6e6207539e0ebf668bccb2b7.png",
+        "league_name": "NBL",
+        "servers": []
+    },
+    {
+        "match_time": "1735563300",
+        "match_status": "vs",
+        "home_team_name": "Baniyas Club",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/2800b38a3cdb2946e117cb5a3fc54aa8.png",
+        "away_team_name": "Al-Wasl SC",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/ce2f6dea6f43fb6035865d066f953e6f.png",
+        "league_name": "UAE EC",
+        "servers": []
+    },
+    {
+        "match_time": "1735563600",
+        "match_status": "vs",
+        "home_team_name": "Thailand",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/e317867627ecba89ea9043732404c1f1.png",
+        "away_team_name": "Philippines",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/ba727d4817dee286161492a1163bc2f3.png",
+        "league_name": "AFF SC",
+        "servers": []
+    },
+    {
+        "match_time": "1735567200",
+        "match_status": "vs",
+        "home_team_name": "Mumbai City FC",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/b0ec058dcdfd8309d0d3e732e949c897.png",
+        "away_team_name": "Northeast United",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/89f819c67fa4d86064d06f7cbc60d3cc.png",
+        "league_name": "IND SL",
+        "servers": []
+    },
+    {
+        "match_time": "1735570800",
+        "match_status": "vs",
+        "home_team_name": "El Gounah",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/8ac404a798280673c16ca89d44c2baf0.png",
+        "away_team_name": "Pyramids FC",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/7160cb5178bfff0e8d6a68ba0bd9e16a.png",
+        "league_name": "EGY D1",
+        "servers": []
+    },
+    {
+        "match_time": "1735570800",
+        "match_status": "vs",
+        "home_team_name": "Enppi",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/b066f228683b0df38f45fe717e37e8c1.png",
+        "away_team_name": "El Ahly Cairo",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/45c607fce446210bdaaa3fc66e7398b8.png",
+        "league_name": "EGY D1",
+        "servers": []
+    },
+    {
+        "match_time": "1735573500",
+        "match_status": "vs",
+        "home_team_name": "Al-Jazira(UAE)",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241225/262f236e8659964aae4d1ba0d35ba4bb.png",
+        "away_team_name": "Al-Ain FC",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241225/b30cd953fa7542e7c5e0cee51f491a3f.jpg",
         "league_name": "UAE EC",
         "servers": []
     }

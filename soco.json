@@ -530,37 +530,6 @@
         ]
     },
     {
-        "match_time": "1735428900",
-        "match_status": "live",
-        "home_team_name": "Charlotte Hornets",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241227/2460e9a7499f8cf4b13bb817a6fb3243.png",
-        "away_team_name": "Oklahoma City Thunder",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241227/0ad82de8d78e18340c9bc8440d376fda.png",
-        "league_name": "NBA",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=33455ee76323607d861a3ed447acc287&txTime=6770f8ce",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=6c05dadd1e3a98edd128b770d790e5bd&txTime=6770f8ce",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735439673-0-0-bb2f094207c3ac6a40202e0ccc2a6a23",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735439673-0-0-d874bdf88690a30802721088bc58651f",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1735432500",
         "match_status": "live",
         "home_team_name": "Washington Wizards",
@@ -571,22 +540,22 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=de8394429344f9889d20d0e0deb9f95f&txTime=6770fb89",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=3de9afb6b45f27c2845286e50bb4fa89&txTime=6770fcb5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=8392e1d31322ffc952ad0b6317078a6b&txTime=6770fb89",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=d0718534b457c6c59b3bc39e4a44a2d5&txTime=6770fcb5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735439673-0-0-e41e8a709727f88e7b20c400c3b9ab3d",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735439973-0-0-8c1b39170d4e0ac695192db070f3bcbe",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735439673-0-0-7c29d094809edba3a0f7513ebbacb657",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735439973-0-0-e71c3cca4a5e507260b6cd6eb7ab1f53",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -602,12 +571,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735439673-0-0-a96277f879fb40da806e2badac36874b",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735439973-0-0-2469829ce498fcc4f5bf19b77cc78b90",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735439673-0-0-dcf847bb884b181b0bcffb8a1a206675",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735439973-0-0-3f9ff3ff6072eae14ec0a11f7634f5dd",
                 "referer": "https://socolivev.co/"
             }
         ]

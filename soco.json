@@ -540,12 +540,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735444173-0-0-8e5e087c88a3a0a33d40e007a8bf9502",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735444473-0-0-f6ad7e84ec03526f31d8436cfb209284",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735444173-0-0-4d7254e1d3ae18e9da46bc4a79f9a52b",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735444473-0-0-3afb8d31b1f8320d8772e6711c460f93",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -561,25 +561,46 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735444173-0-0-60553d16bdbca4fb495c431626ff37d5",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735444473-0-0-c84db7f4c829984121818ae64cd84be5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735444173-0-0-e58d88ef697d31466dcfbed8050e443c",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735444473-0-0-0b9009b22234e6c444bb32684a22a455",
                 "referer": "https://socolivev.co/"
             }
         ]
     },
     {
         "match_time": "1735441500",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Utah Jazz",
         "home_team_logo": "https://sta.vnres.co/file/common/20241227/006036143db8bed3a9f8dc9d10984a37.png",
         "away_team_name": "Philadelphia 76ers",
         "away_team_logo": "https://sta.vnres.co/file/common/20241227/393f7206375d8f6c1a868e26028780ab.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=37d3c256d627713dd6ff3c05d91ad577&txTime=67710e49",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=57a3db0bb8beb1c807917b9aec94e06e&txTime=67710e49",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735444473-0-0-fa1f37b0e49f400bfd7c3223d067e480",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735444473-0-0-9dd75a45acf73de07e96169786a3674e",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735443000",

@@ -673,25 +673,46 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735541073-0-0-b38e20f7cc80c0fcc6ea309cc8cf9792",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735541373-0-0-e123631dc0c85035c3ff14df551775a0",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735541073-0-0-d5d43ccfaedbd7a3ef083c3bbaf2de59",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735541373-0-0-f723ae15111c2226a83f0ac70316b551",
                 "referer": "https://socolivev.co/"
             }
         ]
     },
     {
         "match_time": "1735538400",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Sydney W",
         "home_team_logo": "https://sta.vnres.co/file/common/20241228/cf181930bd21176d5c44a20a4566e9a9.png",
         "away_team_name": "Southside W",
         "away_team_logo": "https://sta.vnres.co/file/common/20241228/5e921f8b68a735b036c6d4d6385a54f2.png",
         "league_name": "WNBL",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735541373-0-0-3c5c9204907288be4e0495392a1e9019",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735541373-0-0-1fdee523aeda5e6d23be640b8898b6db",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=8b2a2cbe4ecc61e0a95914f3afca7c82&txTime=677288cd",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=bb661dbb6fa6878c54cb371bbca802dd&txTime=677288cd",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735543800",

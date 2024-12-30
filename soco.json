@@ -664,13 +664,24 @@
     },
     {
         "match_time": "1735535100",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Shiga",
         "home_team_logo": "https://sta.vnres.co/file/common/20241228/3b43fb3c6c34deda52db02c5d67df30b.png",
         "away_team_name": "Koshigaya Alphas",
         "away_team_logo": "https://sta.vnres.co/file/common/20241228/6c1747bff18d0f3e1fdfc0e4599b3e2c.png",
         "league_name": "JB1",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735538073-0-0-f84cca58e70fc4ef04be4126992eddbb",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735538073-0-0-aead9b887b6f0ce598c2b122a3a019b7",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735538400",

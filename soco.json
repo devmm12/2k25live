@@ -212,12 +212,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-434982_lsd.m3u8?auth_key=1735600473-0-0-7d1ceac6061d0b1ef0ca0fba5d1dda1b",
+                "stream_url": "https://pull.niues.live/live/stream-434982_lsd.m3u8?auth_key=1735600604-0-0-ebf10cb00abb2781189589f5422b9267",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-434982_lhd.m3u8?auth_key=1735600473-0-0-8950cfcebb0375e0873ea58de2ada25b",
+                "stream_url": "https://pull.niues.live/live/stream-434982_lhd.m3u8?auth_key=1735600604-0-0-fc88df65e44f4d762c9c44b724a24cd3",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -410,37 +410,6 @@
             {
                 "name": "Soco HD",
                 "stream_url": "https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1735585935-0-0-0377affb5cee9a220b803507be317581",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1735589700",
-        "match_status": "live",
-        "home_team_name": "FC Famalicao",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241228/c6fd2f365dffd401cd12511b57b77ff9.png",
-        "away_team_name": "Santa Clara",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241228/c7c9930d3d9d8e410244ac92594e9057.png",
-        "league_name": "POR D1",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-308080_lsd.m3u8?auth_key=1735600406-0-0-a26b97f88dfce14dc34ad6bd9201e69f",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-308080_lhd.m3u8?auth_key=1735600406-0-0-1f7b8297cf311bf7a4ecb7a936c58ad7",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-389399_lsd.m3u8?auth_key=1735600480-0-0-d650128807505fcdc8718f6f475bfd9e",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-389399_lhd.m3u8?auth_key=1735600480-0-0-5f7ebb97795535cb5ed1f012eef06856",
                 "referer": "https://socolivev.co/"
             }
         ]

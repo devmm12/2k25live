@@ -60,12 +60,12 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=2f340ad063b5d082493838ea0866745c&txTime=6772391d",
+                "stream_url": "https://pull.niur.live/live/stream-283501_lsd.m3u8?txSecret=3650ecae6ada578bcc3ac92cb9c75ae0&txTime=67723a49",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=64bee6715797de9aaf35696e17cc571c&txTime=6772391d",
+                "stream_url": "https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=eed6246542b43b11231b12b3226e5ea9&txTime=67723a49",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -663,66 +663,24 @@
         ]
     },
     {
-        "match_time": "1735516800",
-        "match_status": "live",
+        "match_time": "1735518900",
+        "match_status": "vs",
         "home_team_name": "Houston Rockets",
         "home_team_logo": "https://sta.vnres.co/file/common/20241228/671e110999a4ff78a47fa61643115739.png",
         "away_team_name": "Miami Heat",
         "away_team_logo": "https://sta.vnres.co/file/common/20241228/c1d1d125ca49598777531bbc891b77f1.png",
         "league_name": "NBA",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735520973-0-0-e7daa648567b2492a800d2ea7db7e3b2",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735520973-0-0-71d02b205304151e1b9a5054e1cc3532",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735520973-0-0-74b89a0d8fc11d54c3017b6de3aa9dff",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735520973-0-0-b407d93db722e99587e3894eda29a7d7",
-                "referer": "https://socolivev.co/"
-            }
-        ]
+        "servers": []
     },
     {
-        "match_time": "1735516800",
-        "match_status": "live",
+        "match_time": "1735518900",
+        "match_status": "vs",
         "home_team_name": "Oklahoma City Thunder",
         "home_team_logo": "https://sta.vnres.co/file/common/20241228/2b9bc0a2b560dc76538969fb70a58b59.png",
         "away_team_name": "Memphis Grizzlies",
         "away_team_logo": "https://sta.vnres.co/file/common/20241228/cc0ab1677fc57487302b3629cb6464d0.png",
         "league_name": "NBA",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-289098_lsd.m3u8?auth_key=1735520973-0-0-aaf6ebc9a7f7bcdffc40e138c8b286e7",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-289098_lhd.m3u8?auth_key=1735520973-0-0-a96f955a55b466892d79576b5ad2e6be",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=8be01b7236fc38767a703511e5abb5a7&txTime=6772391d",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=6cd76820ae18bdd9123aa7d4d3f17949&txTime=6772391d",
-                "referer": "https://socolivev.co/"
-            }
-        ]
+        "servers": []
     },
     {
         "match_time": "1735520400",

@@ -673,12 +673,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735542273-0-0-53fffc3afcdf9cd3d5810fde86c984c6",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735542573-0-0-37094088d030229867993460425e6bbf",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735542273-0-0-ad29bbd1327a75810fb91d1dddbd9abf",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735542573-0-0-4cc20bb1f5827c0eef7f3413ff4605eb",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -694,22 +694,22 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735542273-0-0-f9420373c5f23fac6154ebf5dad9205e",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735542573-0-0-e312a95955fb1d8ad34a3e2d90b5b781",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735542273-0-0-96a13950ae51cebc1a28b31c7e23ec38",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735542573-0-0-8cff09e32769aaecab2d786d78d6a028",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=0782763a282a1b42a168085628c4ccee&txTime=67728c51",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=2a10d3dc084148e0b501944f874b5fd2&txTime=67728d7d",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=3f501d403a3aecd58388b309b00e009b&txTime=67728c51",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=e6e18b2a4318491c385423348f83ae53&txTime=67728d7d",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -972,6 +972,26 @@
         "away_team_name": "Melbourne City",
         "away_team_logo": "https://sta.vnres.co/file/common/20241228/d5acd5869ec2b3b879fdbcea661d83a8.png",
         "league_name": "AUS D1",
+        "servers": []
+    },
+    {
+        "match_time": "1735633800",
+        "match_status": "vs",
+        "home_team_name": "Bangladesh Police Club",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241230/728bd2d48b536878f60791e2f859d7e6.png",
+        "away_team_name": "Bashundhara Kings",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241230/40039169cfe6b5dd6073973b800017a2.png",
+        "league_name": "BAN FCup",
+        "servers": []
+    },
+    {
+        "match_time": "1735633800",
+        "match_status": "vs",
+        "home_team_name": "Fortis Limited",
+        "home_team_logo": "https://sta.vnres.co/file/common/20241230/f2e7ab3403ca0d20eaf61f439ff6942a.png",
+        "away_team_name": "Dhaka Wanderers",
+        "away_team_logo": "https://sta.vnres.co/file/common/20241230/e4d1e4847d3ab8577d3052cc9be33e3e.png",
+        "league_name": "BAN FCup",
         "servers": []
     },
     {

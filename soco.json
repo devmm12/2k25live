@@ -416,23 +416,75 @@
     },
     {
         "match_time": "1735603200",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Charlotte Hornets",
         "home_team_logo": "https://sta.vnres.co/file/common/20241229/ef9f33ad44b89b0157b27aaf6e6e63f3.png",
         "away_team_name": "Chicago Bulls",
         "away_team_logo": "https://sta.vnres.co/file/common/20241229/72a02304c751dc4fd13f71cd5878398e.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=9cfeea3e2c58ee9dceea340a0f8816b0&txTime=677385ed",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=deab2eb7066bad4219767d961c70aed7&txTime=677385ed",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735606173-0-0-eb12e31aedf8c9708af066f093e47f77",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735606173-0-0-9f83fee31ab4382d3b2fb732d8c08872",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-289098_lsd.m3u8?auth_key=1735606173-0-0-5e00bd84836bb053c4aa653ece7460de",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-289098_lhd.m3u8?auth_key=1735606173-0-0-0c013b80d8bcb63546929706198254a3",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735603200",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Washington Wizards",
         "home_team_logo": "https://sta.vnres.co/file/common/20241229/f2f1947f29df5529752a5a6ebcaab085.png",
         "away_team_name": "New York Knicks",
         "away_team_logo": "https://sta.vnres.co/file/common/20241229/ee13f6d016a5dcbd8c2b77b975b56abf.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735606173-0-0-f424ccffd4614e14b898a548c49d2d7a",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735606173-0-0-ee970db0e528dad61eb4db1c4f89d907",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=5ae7354610038dcdf4c1b647de4bdf23&txTime=677385ed",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=d11dd74e6bae0b661f233eee692d3008&txTime=677385ed",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735614000",

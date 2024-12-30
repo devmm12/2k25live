@@ -663,37 +663,6 @@
         ]
     },
     {
-        "match_time": "1735526100",
-        "match_status": "live",
-        "home_team_name": "Minnesota Timberwolves",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241228/4de2882766df9da8cbe045408695a79e.png",
-        "away_team_name": "San Antonio Spurs",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241228/f16cee4e63394a47a090e2ef3581986f.png",
-        "league_name": "NBA",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735536573-0-0-60d91c87f247e3298687cc04734cfb75",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735536573-0-0-69ae2fc718bb8467b2db3f37695e9227",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=350e0c043ce4a472a02cdcb56a18022c&txTime=6772760d",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=2186fe2ae5bad3ebb85a446d869589f9&txTime=6772760d",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1735535100",
         "match_status": "vs",
         "home_team_name": "Shiga",

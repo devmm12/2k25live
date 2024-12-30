@@ -663,47 +663,6 @@
         ]
     },
     {
-        "match_time": "1735547400",
-        "match_status": "live",
-        "home_team_name": "Sydney",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241228/beea9d33ce2b6d0a1947a8f1ba259d42.png",
-        "away_team_name": "Adelaide",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241228/716f6d6c6e6207539e0ebf668bccb2b7.png",
-        "league_name": "NBL",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-289098_lsd.m3u8?auth_key=1735557873-0-0-b7566b157c23caa1bbf88ded56899f15",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-289098_lhd.m3u8?auth_key=1735557873-0-0-2b5969b98521039fdf5cd9844b65cb1b",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=5da95bb8b148694c5bc441ac9bdab6f3&txTime=6772c941",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=2770ca20c31b30c774cd580043ccba4c&txTime=6772c941",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735557873-0-0-307e30d6dcb32d04208253815949cbea",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735557873-0-0-590572f0ceb0998c820e91a5856c7419",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1735563300",
         "match_status": "vs",
         "home_team_name": "Baniyas Club",

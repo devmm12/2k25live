@@ -416,13 +416,24 @@
     },
     {
         "match_time": "1735644900",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Fujian",
         "home_team_logo": "https://sta.vnres.co/file/common/20241229/d9a78188ce27325af1c93e4a8038b206.png",
         "away_team_name": "Jiangsu Dragons",
         "away_team_logo": "https://sta.vnres.co/file/common/20241229/7bcbcd44ea8ce798324074ea5a228417.png",
         "league_name": "CBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=eb2a12cf9e9896a5f2712ef2292c19c6&txTime=677428d1",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=4f457b3af4357fd71eed83339557130d&txTime=677428d1",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735650000",

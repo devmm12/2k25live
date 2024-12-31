@@ -415,37 +415,6 @@
         ]
     },
     {
-        "match_time": "1735635600",
-        "match_status": "live",
-        "home_team_name": "Townsville W",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241229/e731638b618650c3f41a804e3d1b6c75.png",
-        "away_team_name": "Bendigo W",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241229/06d720969028eaf27d91d06f448b5fb0.png",
-        "league_name": "WNBL",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735645895-0-0-62fc76862591fff344f14f6cdc54f9d3",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735645895-0-0-b981962b4b30ab5c6d2cc51257f695a4",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=5d71e7cf91f29b1ccdaf4d824881be2a&txTime=67741f2c",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=42d102a5b36279d5b5cfafebd263c829&txTime=67741f2c",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1735644900",
         "match_status": "vs",
         "home_team_name": "Fujian",

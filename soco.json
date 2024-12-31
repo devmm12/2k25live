@@ -416,33 +416,96 @@
     },
     {
         "match_time": "1735614000",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Golden State Warriors",
         "home_team_logo": "https://sta.vnres.co/file/common/20241229/8c02339e76eac4eae88ae8b3feb8c9fe.png",
         "away_team_name": "Cleveland Cavaliers",
         "away_team_logo": "https://sta.vnres.co/file/common/20241229/496943eec67e888ad09c2455bc735175.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735616973-0-0-71041c9fa600ff2f14c815c720d42abf",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735616973-0-0-1578dd65dbf70686691a47480f31b4a6",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=f8c6eee211e1ef2df7d37b56840e95e5&txTime=6773b01d",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=b6d10beb50992c4c751515211dbf70aa&txTime=6773b01d",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735614000",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Portland Trail Blazers",
         "home_team_logo": "https://sta.vnres.co/file/common/20241229/df0d8a066e7f4d23261639fa89b89dc5.png",
         "away_team_name": "Philadelphia 76ers",
         "away_team_logo": "https://sta.vnres.co/file/common/20241229/322bcc908f43d337e1d238ef1f753454.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=6f1d5576fd40567b8cbcc77f530754cf&txTime=6773b01d",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=b44efb12f1e86098cc54dde5d5b05604&txTime=6773b01d",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735616973-0-0-49f30b67b2b4221cbc8f503ad264417f",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735616973-0-0-c2ea4eab712c18465bc3d43cff52c167",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735614000",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Sacramento Kings",
         "home_team_logo": "https://sta.vnres.co/file/common/20241229/be12ed5be32e776108e6d16647ea9881.png",
         "away_team_name": "Dallas Mavericks",
         "away_team_logo": "https://sta.vnres.co/file/common/20241229/8e492d8dd3c9e5ad3251652dab0514f3.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735616973-0-0-299c903fb3e34711ae909c5a48711d26",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735616973-0-0-10d799ac81a420caf2a138134eb278d0",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-289098_lsd.m3u8?auth_key=1735616973-0-0-5ad11471fe8f0d470f16f71166cc6c20",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-289098_lhd.m3u8?auth_key=1735616973-0-0-bec82ea61870ab59cb793fbcc1f87306",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735622100",

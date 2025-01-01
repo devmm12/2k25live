@@ -81,12 +81,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=7c77220616c4ed7f3507c0861beda828&txTime=677538b1",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=314c9a9530f9886c5530f3ff945fce03&txTime=677539dd",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=bfafd61399ffdba69024ae4ee372d7c2&txTime=677538b1",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=ff3ef9a474d19b7875a72dd34ecf2605&txTime=677539dd",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -114,33 +114,126 @@
     },
     {
         "match_time": "1735714800",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Western Sydney",
         "home_team_logo": "https://sta.vnres.co/file/common/20241228/8febb9fdc0d439b565d038fbfa680c8f.png",
         "away_team_name": "FC Macarthur",
         "away_team_logo": "https://sta.vnres.co/file/common/20241228/87de29693fa9dfba52a2213a165b8c58.png",
         "league_name": "AUS D1",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1735717773-0-0-dd8a5d6426af40660bb69abd2f5e5524",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1735717773-0-0-cfc56051ca7ef2382a0528de4ea99cf7",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-499765_lsd.m3u8?txSecret=41859db781bf1a7574922209e7a04372&txTime=677539dd",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-499765_lhd.m3u8?txSecret=21c4fe74d7a2a2e6374f3b3bd05f129c&txTime=677539dd",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-9912093_lsd.m3u8?auth_key=1735717773-0-0-ecb728075474cf3459a5482fd7c92229",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-9912093_lhd.m3u8?auth_key=1735717773-0-0-2e75f8c0e73f46608e69f07cf3edd9b1",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-9912096_lsd.m3u8?auth_key=1735717773-0-0-494c94863d3ae46a0ec9e88599f69595",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-9912096_lhd.m3u8?auth_key=1735717773-0-0-e9a4cda5161caa3caf2ac4aa6d7bfaa6",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-256080_lsd.m3u8?txSecret=66e0f812c361b3bec5e3d54ca1230038&txTime=677539dd",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-256080_lhd.m3u8?txSecret=c0e6f94dcce9aa843b1edb0a627d2c9f&txTime=677539dd",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912048_lsd.m3u8?txSecret=546d209910a48b683eafc48d73a90bb9&txTime=677539dd",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912048_lhd.m3u8?txSecret=de75f8bd69d21981f1da6b2b6f9a1593&txTime=677539dd",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735714800",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Anyang JungKwanJang",
         "home_team_logo": "https://sta.vnres.co/file/common/20241230/ebc37640637add2ea09f17c6c4e7c6f3.png",
         "away_team_name": "Goyang Sono",
         "away_team_logo": "https://sta.vnres.co/file/common/20241230/1470d45e49d23fd3d1c84a9b56dbd494.png",
         "league_name": "KBL",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-289098_lsd.m3u8?auth_key=1735717773-0-0-a09d655a22cf634d37e6e0fa9505d1d8",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-289098_lhd.m3u8?auth_key=1735717773-0-0-45e95c104ee388e28bebde59a163524e",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735717773-0-0-3ccecb78330bf334f226a26db7a663f0",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735717773-0-0-95a0208e382e16be56ca6ba4641d1ed3",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735714800",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Samsung Blue Minx W",
         "home_team_logo": "https://sta.vnres.co/file/common/20241230/a9bea11ed74e9d71e5f1b3e125686aff.png",
         "away_team_name": "KB Stars W",
         "away_team_logo": "https://sta.vnres.co/file/common/20241230/2fbbd4013c7a50572baffe06d02cd31d.png",
         "league_name": "WKBL",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735701719-0-0-79be6175d7fa47dda03087f3750a90b7",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735701719-0-0-879fd5a80c33cd7d1433554d4c8b4395",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735732800",

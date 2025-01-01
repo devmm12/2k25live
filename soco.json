@@ -72,13 +72,24 @@
     },
     {
         "match_time": "1735732800",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Xinjiang",
         "home_team_logo": "https://sta.vnres.co/file/common/20241230/eebc96f1fa3f960ef1e31a10aeaaf712.png",
         "away_team_name": "Shandong",
         "away_team_logo": "https://sta.vnres.co/file/common/20241230/2dd3d66bf3d89a909a00666c33bd1cd3.png",
         "league_name": "CBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735735773-0-0-83c48d89f99907a04998a7849c3fe423",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735735773-0-0-0661eacd1d810f4d98728ee409954340",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735734600",

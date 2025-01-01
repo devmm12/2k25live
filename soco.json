@@ -71,25 +71,14 @@
         ]
     },
     {
-        "match_time": "1735689600",
-        "match_status": "live",
+        "match_time": "1735691700",
+        "match_status": "vs",
         "home_team_name": "San Antonio Spurs",
         "home_team_logo": "https://sta.vnres.co/file/common/20241230/227a6daf247ccfbd698b6982572962bc.png",
         "away_team_name": "Los Angeles Clippers",
         "away_team_logo": "https://sta.vnres.co/file/common/20241230/f1c2dc391408387f7573eb96e4e6e470.png",
         "league_name": "NBA",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735693473-0-0-84ba0aca53dd65d3e63fa16f3a088332",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735693473-0-0-45cab3c74c3a939afb497c16beccee74",
-                "referer": "https://socolivev.co/"
-            }
-        ]
+        "servers": []
     },
     {
         "match_time": "1735693200",

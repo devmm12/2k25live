@@ -449,23 +449,55 @@
     },
     {
         "match_time": "1735776000",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Detroit Pistons",
         "home_team_logo": "https://sta.vnres.co/file/common/20241231/2d131b00db42a5d3a4e19d26105003b7.png",
         "away_team_name": "Orlando Magic",
         "away_team_logo": "https://sta.vnres.co/file/common/20241231/9a199c5468f30528e6b893958e765d1e.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=28bd9744c6f421d8e74f6942e140ea1a&txTime=677628ed",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=cd6d4c5133c293fe774389b22ac941eb&txTime=677628ed",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735776000",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Washington Wizards",
         "home_team_logo": "https://sta.vnres.co/file/common/20241231/166384ba091aa746d6cb261fd8423c1c.png",
         "away_team_name": "Chicago Bulls",
         "away_team_logo": "https://sta.vnres.co/file/common/20241231/89e59870721fe8186d551c2c4646b530.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-289098_lsd.m3u8?auth_key=1735778973-0-0-bf0c66c69a547df7024b905a7ba05fc4",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-289098_lhd.m3u8?auth_key=1735778973-0-0-d6287695445394bdd86bb730321a1a45",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735778973-0-0-3860497e7d08c096100c20d7b2d477cc",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735778973-0-0-3cbf5e3f2eb63e7eb8cd5a1de94ddb26",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735777800",

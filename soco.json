@@ -448,58 +448,6 @@
         ]
     },
     {
-        "match_time": "1735779900",
-        "match_status": "live",
-        "home_team_name": "Miami Heat",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241231/9d65a7e0b707386dba2bb1bfedcc85a7.png",
-        "away_team_name": "New Orleans Pelicans",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241231/75037f809f2b29620278a3f1d6a5fda0.png",
-        "league_name": "NBA",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735790673-0-0-c58c90ec78616c8d77f0e6cb5bb13aa2",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735790673-0-0-28494577878a930327db2f0bfa5f7671",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1735779900",
-        "match_status": "live",
-        "home_team_name": "New York Knicks",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241231/d3b4ff8da1271aa613643b3d78fcb33a.png",
-        "away_team_name": "Utah Jazz",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241231/17ec62985a912a392ea3b2fdf514313f.png",
-        "league_name": "NBA",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1735790673-0-0-948a8a2d5d3b60b1753f53962a838bc2",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1735790673-0-0-e314e1704e61058f253947abf7f56a7d",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=a38490d964a64b058fa3056a735894a6&txTime=677656a1",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=e3591d09cfcbf2d51c4d9dbd114c8a87&txTime=677656a1",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1735788900",
         "match_status": "vs",
         "home_team_name": "Sacramento Kings",

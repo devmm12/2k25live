@@ -458,25 +458,36 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=e2524e66723ccf4ac7b746be952a6596&txTime=6776caa5",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=5b67dfc96426f92516b5f4e5043ad3f1&txTime=6776cbd1",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=a294d97298ad526c0602796dd6f7b6fd&txTime=6776caa5",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=dadc2ff8b546e1b02b97b1ba9bbd2152&txTime=6776cbd1",
                 "referer": "https://socolivev.co/"
             }
         ]
     },
     {
         "match_time": "1735817700",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Nanjing Tongxi",
         "home_team_logo": "https://sta.vnres.co/file/common/20241231/80cbf1cf327157a02045be2759ca6b57.jpeg",
         "away_team_name": "Beijing Royal Fighters",
         "away_team_logo": "https://sta.vnres.co/file/common/20241231/a4f92bbeccbb7f0c6de136ea27d6eae9.png",
         "league_name": "CBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=c03f58225ddd06bab46e3058901ea830&txTime=6776cbd1",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=5d844a08d2b03d1bef2a2d1dc15bb01f&txTime=6776cbd1",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735822800",

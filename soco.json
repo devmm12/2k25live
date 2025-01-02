@@ -142,12 +142,12 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9911977_lsd.m3u8?txSecret=0c9e27f810ecb643828a3ac7d87c8d3b&txTime=6775cb5c",
+                "stream_url": "https://pull.niur.live/live/stream-9911977_lsd.m3u8?txSecret=4bcb3ec369f9158d4aa1e850f10b6e93&txTime=6776d531",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9911977_lhd.m3u8?txSecret=636401db084db5949e0a1b815cd6cd5b&txTime=6775cb5c",
+                "stream_url": "https://pull.niur.live/live/stream-9911977_lhd.m3u8?txSecret=9a54c32dd5d5de51bd0813a94ab3cba3&txTime=6776d531",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -315,12 +315,12 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1735822773-0-0-48df6de392cabed1709c27342b4fdef6",
+                "stream_url": "https://pull.niues.live/live/stream-9912060_lsd.m3u8?auth_key=1735823073-0-0-24f05f906c3f50da195e0e97ed4b009a",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1735822773-0-0-dd6a872f9b2398117be8239ce700ab31",
+                "stream_url": "https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1735823073-0-0-f6331085911bc1f8131900517cfb2c20",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -448,27 +448,6 @@
         ]
     },
     {
-        "match_time": "1735812000",
-        "match_status": "live",
-        "home_team_name": "Hana Bank W",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241231/bb6d42cddd29b6bafdab2a2b19d73819.png",
-        "away_team_name": "S-Birds W",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241231/9ef63b67651e467ce71de6e6a5cb3917.png",
-        "league_name": "WKBL",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=6db586d032631a16892e3ab1b3e7564e&txTime=6776d405",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=14eb37710f15e367fe1ff7bd860c72a8&txTime=6776d405",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1735817700",
         "match_status": "live",
         "home_team_name": "Nanjing Tongxi",
@@ -479,12 +458,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=03e1476e8cedc5050212f5bdaaa980b1&txTime=6776d405",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=62f76d9d819daf4e9748d48b46d00ddd&txTime=6776d531",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=f63a56d34c38c7e56d66c1af877d4087&txTime=6776d405",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=4a92be1caf646d7c40cb901f96df5ac7&txTime=6776d531",
                 "referer": "https://socolivev.co/"
             }
         ]

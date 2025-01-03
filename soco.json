@@ -131,12 +131,12 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-313971_lsd.m3u8?txSecret=01f964169231055a8d2c815db3a557af&txTime=6778bcb1",
+                "stream_url": "https://pull.niur.live/live/stream-313971_lsd.m3u8?txSecret=1d42440ab05dc65fbdc4094c4828efe5&txTime=6778bddd",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-313971_lhd.m3u8?txSecret=5d4ad55c03afd20b38ae86731000752c&txTime=6778bcb1",
+                "stream_url": "https://pull.niur.live/live/stream-313971_lhd.m3u8?txSecret=d266f6bfa5abca8148a75a044e8dd61b&txTime=6778bddd",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -152,35 +152,56 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-478300_lsd.m3u8?txSecret=8bb5f8971a56689727b0aed3c3c667ed&txTime=6778bcb1",
+                "stream_url": "https://pull.niur.live/live/stream-478300_lsd.m3u8?txSecret=e844fd533bba63bbc21cb758627686e2&txTime=6778bddd",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-478300_lhd.m3u8?txSecret=269135bebab97ae5010597fec45ef7fc&txTime=6778bcb1",
+                "stream_url": "https://pull.niur.live/live/stream-478300_lhd.m3u8?txSecret=36b53b205b9ece04214ed3c0854ebab9&txTime=6778bddd",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-313971_lsd.m3u8?txSecret=01f964169231055a8d2c815db3a557af&txTime=6778bcb1",
+                "stream_url": "https://pull.niur.live/live/stream-313971_lsd.m3u8?txSecret=1d42440ab05dc65fbdc4094c4828efe5&txTime=6778bddd",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-313971_lhd.m3u8?txSecret=5d4ad55c03afd20b38ae86731000752c&txTime=6778bcb1",
+                "stream_url": "https://pull.niur.live/live/stream-313971_lhd.m3u8?txSecret=d266f6bfa5abca8148a75a044e8dd61b&txTime=6778bddd",
                 "referer": "https://socolivev.co/"
             }
         ]
     },
     {
         "match_time": "1735945200",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Santos (Youth)",
         "home_team_logo": "https://sta.vnres.co/file/common/20241231/1d0290450a47513a28f9fd160c63e491.png",
         "away_team_name": "CEFA Tirol CE (Youth)",
         "away_team_logo": "https://sta.vnres.co/file/common/20241231/348007bc709e31393ea0553afebbec33.png",
         "league_name": "BRA SPYC",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=c69c9bd75000cae695b62996bca709bc&txTime=6778bddd",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=3079423de269e66afc345c19d369a253&txTime=6778bddd",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-304148_lsd.m3u8?txSecret=6fdd1f6eeabdee5ac638adfdd600565d&txTime=6778bddd",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=d870e3e9ebd0bdc150cdf8e76918196c&txTime=6778bddd",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735948800",

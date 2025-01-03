@@ -121,33 +121,12 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9911977_lsd.m3u8?txSecret=3818b428e58afb9cca386cb520c19c2d&txTime=67783a9d",
+                "stream_url": "https://pull.niur.live/live/stream-9911977_lsd.m3u8?txSecret=78ef68758fdef3bc169988b175ac66ed&txTime=67783bc9",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9911977_lhd.m3u8?txSecret=69fe2d102005324d021ca493bc9dd25a&txTime=67783a9d",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1735903800",
-        "match_status": "live",
-        "home_team_name": "Taiwan Beer",
-        "home_team_logo": "https://sta.vnres.co/file/common/20250101/ec0b7082b93af8d0cfbc7e0bd82300d7.png",
-        "away_team_name": "Yulon Luxgen Dinos",
-        "away_team_logo": "https://sta.vnres.co/file/common/20250101/4d2c84be74044fbf64e7d36bf5dabf09.png",
-        "league_name": "SBL",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735914573-0-0-89a0695613f22a7bbad974cf79f81dd1",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735914573-0-0-ea4fb4fa5deb11ecb0306e7123169eff",
+                "stream_url": "https://pull.niur.live/live/stream-9911977_lhd.m3u8?txSecret=130bc959035526b2836b5a72205b1a2d&txTime=67783bc9",
                 "referer": "https://socolivev.co/"
             }
         ]

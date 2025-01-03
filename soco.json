@@ -111,12 +111,12 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=f60dda3577844c980a9877277eb15040&txTime=677833b1",
+                "stream_url": "https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=c87244b4b0d328069424047be8ea2f6d&txTime=677833bb",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=0525f27d4250b215f11f9c09143fbc18&txTime=677833b1",
+                "stream_url": "https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=011abff567e14af390309195f83a053e&txTime=677833bb",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -132,77 +132,6 @@
         ]
     },
     {
-        "match_time": "1735902000",
-        "match_status": "live",
-        "home_team_name": "Nagaworld FC",
-        "home_team_logo": "https://sta.vnres.co/file/common/20241231/6cb1817202a40175be0b2335ace8140c.png",
-        "away_team_name": "Svay Rieng FC",
-        "away_team_logo": "https://sta.vnres.co/file/common/20241231/af4ba2a28f70c0fa1e97b3248784e4d4.png",
-        "league_name": "CAM D1",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912016_lsd.m3u8?txSecret=b18dbeef9e9a7671442a5ccec2c26453&txTime=6778338f",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912016_lhd.m3u8?txSecret=c673271ca3a9d50bee75cfc3faffed4b&txTime=6778338f",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9911957_lsd.m3u8?txSecret=caaffac67006749415863df6692e1ac4&txTime=67783327",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9911957_lhd.m3u8?txSecret=69a3155e6d65e5eab32e43fe81e776b0&txTime=67783327",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-991140_lsd.m3u8?txSecret=923627c01fc09863162a993983ee9e6a&txTime=67783395",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-991140_lhd.m3u8?txSecret=8a5f7f1fb167f01b1839a2b8d0a9edc1&txTime=67783395",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-389399_lsd.m3u8?auth_key=1735912576-0-0-ad08da8f000192b34c3e1c6f6474c401",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-389399_lhd.m3u8?auth_key=1735912576-0-0-90297666494e48b58d9cbccbd28dd4ab",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=f60dda3577844c980a9877277eb15040&txTime=677833b1",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=0525f27d4250b215f11f9c09143fbc18&txTime=677833b1",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912043_lsd.m3u8?txSecret=b8030fccd197146f9929d7c1775a92ed&txTime=677832f9",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912043_lhd.m3u8?txSecret=d1e1421c39be145ed1fa7e0746aebfc0&txTime=677832f9",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1735903800",
         "match_status": "live",
         "home_team_name": "Taiwan Beer",
@@ -213,12 +142,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735912773-0-0-e1774d3bf77d2072aea4a0919dfc078c",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735913073-0-0-a404ac8614030927bfa3acc707d03a80",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735912773-0-0-461cb2bca729b836f977cfbf2d9532be",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735913073-0-0-d1121435f604f316b1c0928bb698b231",
                 "referer": "https://socolivev.co/"
             }
         ]

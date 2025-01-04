@@ -477,12 +477,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=9c352029bd5a7bc4373e05786ef8404c&txTime=677a0981",
+                "stream_url": "https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=fbf108f32eff7252b9e2464ef785d70e&txTime=677a0aad",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=949c0309e8897a2d637fb815e66f8f16&txTime=677a0981",
+                "stream_url": "https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=4eb8f76323188e2198cf9161f0a07d7d&txTime=677a0aad",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -555,109 +555,6 @@
             {
                 "name": "Soco HD",
                 "stream_url": "https://pull.niues.live/live/stream-9912092_lhd.m3u8?auth_key=1736033061-0-0-26bc17155769fc1e1780affcc027d610",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1736022600",
-        "match_status": "live",
-        "home_team_name": "UD Marbella",
-        "home_team_logo": "https://sta.vnres.co/file/common/20250101/9c2377bffcd0dbc4b23f2915e0513829.png",
-        "away_team_name": "Atletico Madrid",
-        "away_team_logo": "https://sta.vnres.co/file/common/20250101/4c7f20b2208fca7a7b6f9ff064103e73.png",
-        "league_name": "SPA CUP",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-290928_lsd.m3u8?auth_key=1736033073-0-0-9017915c981466541d1c1ab9d3006399",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1736033073-0-0-f1aa8a5dc65bc6368c8135d89366385e",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-372746_lsd.m3u8?auth_key=1736033095-0-0-9215f4ff81900b02942df196841a4835",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1736033095-0-0-ff8319760ad9c46ffa7d336f0109b09b",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-329740_lsd.m3u8?txSecret=bf285167c18b8cdb8694fc4acb425f5d&txTime=677a0981",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-329740_lhd.m3u8?txSecret=beb7bbc2703fec9000e8e5b3a6a2f446&txTime=677a0981",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912092_lsd.m3u8?auth_key=1736033061-0-0-ea1e23a7aea9fe49d538d70e1bd52dbf",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912092_lhd.m3u8?auth_key=1736033061-0-0-26bc17155769fc1e1780affcc027d610",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1736022600",
-        "match_status": "live",
-        "home_team_name": "UD Logrones",
-        "home_team_logo": "https://sta.vnres.co/file/common/20250101/87bacac264371f247a44a8a1733ea064.png",
-        "away_team_name": "Athletic Club",
-        "away_team_logo": "https://sta.vnres.co/file/common/20250101/534f89227f7dbb4311dff6cf1809e7f6.png",
-        "league_name": "SPA CUP",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-472241_lsd.m3u8?txSecret=9c352029bd5a7bc4373e05786ef8404c&txTime=677a0981",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=949c0309e8897a2d637fb815e66f8f16&txTime=677a0981",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-321443_lsd.m3u8?auth_key=1736033073-0-0-c170e1e0a6a66fe6d095279174baa383",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-321443_lhd.m3u8?auth_key=1736033073-0-0-7af8c33f12635a42d241bd5b6426733e",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1736022600",
-        "match_status": "live",
-        "home_team_name": "Boavista FC",
-        "home_team_logo": "https://sta.vnres.co/file/common/20250101/030c3af48e4c73da571cdcb9f0473519.png",
-        "away_team_name": "FC Arouca",
-        "away_team_logo": "https://sta.vnres.co/file/common/20250101/33c6ba77c3f7dcedbb4585cc5c7f0589.png",
-        "league_name": "POR D1",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-304148_lsd.m3u8?txSecret=fbb6dbaee627c05fff7e94967b31e41a&txTime=677a0981",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=d19b6621348e7bdf5ec3cf43768fce1d&txTime=677a0981",
                 "referer": "https://socolivev.co/"
             }
         ]

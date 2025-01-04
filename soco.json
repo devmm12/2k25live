@@ -152,22 +152,22 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=ee6cf09d656129ed57c9d8ae585d62db&txTime=6778d1c9",
+                "stream_url": "https://pull.niur.live/live/stream-235232_lsd.m3u8?txSecret=ee30e147773d2b40aab6d76e3f080146&txTime=6778d2f5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=15abd296efb44acd72d52d9cb34e0e0c&txTime=6778d1c9",
+                "stream_url": "https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=3664910f3c22fce9eb7d35e6dcbe54ce&txTime=6778d2f5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-304148_lsd.m3u8?txSecret=8c47d047fe722b5d213030241a798458&txTime=6778d1c9",
+                "stream_url": "https://pull.niur.live/live/stream-304148_lsd.m3u8?txSecret=cb687031e37fc076bb51e3d84c283fe6&txTime=6778d2f5",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=43b16fa216c7b9cd6df6921b82fdab12&txTime=6778d1c9",
+                "stream_url": "https://pull.niur.live/live/stream-304148_lhd.m3u8?txSecret=0eca2cfebf2b4418948ad2990e915626&txTime=6778d2f5",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -183,35 +183,67 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735953273-0-0-d7be3d5da32dc922a9fc2c27aac93acc",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1735953573-0-0-f49d9359bd7cff2ff6e7d9d44e573b02",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735953273-0-0-eef3ce6e61bb2999fc8e1d834c1646e6",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1735953573-0-0-9cb794d9b9e94ad5bed9f565f6609370",
                 "referer": "https://socolivev.co/"
             }
         ]
     },
     {
         "match_time": "1735950600",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Atletico Mineiro (Youth)",
         "home_team_logo": "https://sta.vnres.co/file/common/20241231/12b08cc9452f78e8fb71286e4b581fff.png",
         "away_team_name": "Guarani SP (Youth)",
         "away_team_logo": "https://sta.vnres.co/file/common/20241231/a81c814ab06f1c01bd9ac6582d761129.png",
         "league_name": "BRA SPYC",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-474421_lsd.m3u8?txSecret=bcd2aa28b52ba78f420a4735f9acb395&txTime=6778d2f5",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-474421_lhd.m3u8?txSecret=73c75b70e227a10848c321b6707c3c8c&txTime=6778d2f5",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=5cdd2b130aabb08ddcd5cfa5587bdb2e&txTime=6778d2f5",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=4d371d0f3b5abc223c3ecc4ae1cfc08d&txTime=6778d2f5",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735950600",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Toronto Raptors",
         "home_team_logo": "https://sta.vnres.co/file/common/20250102/a4b8196753505cbe2ab4b694e160e66c.png",
         "away_team_name": "Orlando Magic",
         "away_team_logo": "https://sta.vnres.co/file/common/20250102/40eaa767186148d8ac3dc156ed69b8f8.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1735953573-0-0-6555eeac6ab4afb03f81c1a3af89c8d6",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1735953573-0-0-a0ea97202e19c31f1c294ebf361a0090",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1735952400",

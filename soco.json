@@ -570,42 +570,73 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=3654fae0b5934e1691fe8cf0c9104c7e&txTime=677a5355",
+                "stream_url": "https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=11ef868802557d47510cd2a94bfdd065&txTime=677a5481",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=01e3e043097d3809c1616bc51e55abad&txTime=677a5355",
+                "stream_url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=317141e4535b1aaf24d1caaadefc8e6c&txTime=677a5481",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912043_lsd.m3u8?txSecret=e9eaeb89df2a30c72c2d07fd673135ee&txTime=677a5355",
+                "stream_url": "https://pull.niur.live/live/stream-9912043_lsd.m3u8?txSecret=9f8431575ff9e32f98b2287477315a0f&txTime=677a5481",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912043_lhd.m3u8?txSecret=236f9f309e3fde4d0ab086b443f2a928&txTime=677a5355",
+                "stream_url": "https://pull.niur.live/live/stream-9912043_lhd.m3u8?txSecret=a41dfa8497bafd958a0f0684a6f0ea2c&txTime=677a5481",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-478300_lsd.m3u8?txSecret=e984a8f17c26fb47478cf20e7f305506&txTime=677a5355",
+                "stream_url": "https://pull.niur.live/live/stream-478300_lsd.m3u8?txSecret=680d0e7e9a564eb8d84f2ba295ff6a83&txTime=677a5481",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-478300_lhd.m3u8?txSecret=98ebcf8aab0e7d890ae87bf322fde849&txTime=677a5355",
+                "stream_url": "https://pull.niur.live/live/stream-478300_lhd.m3u8?txSecret=7af59db35c57b0f2c932278414a41ad3&txTime=677a5481",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-500606_lsd.m3u8?auth_key=1736051973-0-0-4353750bd61c8d6b3df55d60fde1b7f7",
+                "stream_url": "https://pull.niues.live/live/stream-500606_lsd.m3u8?auth_key=1736052273-0-0-4ce0d366dff6f7aa5011368f08af74e1",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-500606_lhd.m3u8?auth_key=1736051973-0-0-7d066b1b41bed2cc3908a61ec37a71b9",
+                "stream_url": "https://pull.niues.live/live/stream-500606_lhd.m3u8?auth_key=1736052273-0-0-e3fec5fd5a1cacd41d6c141b3ae7050f",
+                "referer": "https://socolivev.co/"
+            }
+        ]
+    },
+    {
+        "match_time": "1736042400",
+        "match_status": "live",
+        "home_team_name": "San Antonio Spurs",
+        "home_team_logo": "https://sta.vnres.co/file/common/20250103/f58b98f572aac06b63443dd9444b9e31.png",
+        "away_team_name": "Denver Nuggets",
+        "away_team_logo": "https://sta.vnres.co/file/common/20250103/dcf6db06abb394765ba5f5b4a090f78c.png",
+        "league_name": "NBA",
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=d728df8e572bb8dd67efbff0391113ba&txTime=677a5481",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=df06bb5020d6dcd69429bec868784906&txTime=677a5481",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1736052273-0-0-1be23db48a8bc4ca7cae037f2097c483",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1736052273-0-0-7caa6ee6f5a8a6ef0f048c99780b0065",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -621,32 +652,32 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1736051973-0-0-2031a982463608c9c8e34a4dedc7946e",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1736052273-0-0-8770e79825edf0961253e61dc0189222",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1736051973-0-0-823b4a034ca7065803cea0860bfe7790",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1736052273-0-0-1a8865d933d83ce63262c06b91952d0f",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1736051973-0-0-830a1615297ef7fa6cef308ccdc85af0",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lsd.m3u8?auth_key=1736052273-0-0-558cd701b0ae3ff65f3c9c3bcd2fbaea",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1736051973-0-0-9c2a5231de7bb4c384bfdb1ef0ea162f",
+                "stream_url": "https://pull.niues.live/live/stream-304297_lhd.m3u8?auth_key=1736052273-0-0-9bad190871186588ae4657c59cafa427",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=1fb4adbbcb29805d454bb526e06c1621&txTime=677a5355",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=4066502d58ad968cfca7510c5b7c34f1&txTime=677a5481",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=1058a06f69271f7423b13f273f8cfa87&txTime=677a5355",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=20dbbd0372888bad4990bac270649afd&txTime=677a5481",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -662,22 +693,22 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=ca4e64784909b40aa67d45e10816615e&txTime=677a5355",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=d728df8e572bb8dd67efbff0391113ba&txTime=677a5481",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=64489c0a16a899a9641dab6626131646&txTime=677a5355",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=df06bb5020d6dcd69429bec868784906&txTime=677a5481",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1736051973-0-0-0cae18734c716989063fe6a70cf03a13",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1736052273-0-0-1be23db48a8bc4ca7cae037f2097c483",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1736051973-0-0-00e4495b2d186677419b6b8bc8ba7e26",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1736052273-0-0-7caa6ee6f5a8a6ef0f048c99780b0065",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -693,12 +724,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=518e5432cc1b88b1f266b4fa60dd1f89&txTime=677a5355",
+                "stream_url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=4b1e8c4b056a92fbb74458b3e1ed7b5e&txTime=677a5481",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=58f725ea00c3a53f6daf0584300e2e52&txTime=677a5355",
+                "stream_url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=79a65d9e100f0364ace0bf4ef4f99628&txTime=677a5481",
                 "referer": "https://socolivev.co/"
             }
         ]

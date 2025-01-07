@@ -584,6 +584,77 @@
         ]
     },
     {
+        "match_time": "1736222700",
+        "match_status": "live",
+        "home_team_name": "Sacramento Kings",
+        "home_team_logo": "https://sta.vnres.co/file/common/20250105/62369991fbf4cc8ae9e42524585a3265.png",
+        "away_team_name": "Miami Heat",
+        "away_team_logo": "https://sta.vnres.co/file/common/20250105/66fa14fdf48f66775e779995b94d65d3.png",
+        "league_name": "NBA",
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=d601f33ee3981883809b599dedbd505f&txTime=677d13a1",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=0c445c3aa2b1c1212342e1a637665d23&txTime=677d13a1",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1736232273-0-0-dcf05aca546bec1460b8a076d5fd7cad",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1736232273-0-0-553a5d32283c72aeb7d77bcd6220f2af",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=0b7d229fce318fc6d78ca5951105a30a&txTime=677d13a1",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=f935ad7ad0dc92e30cc050f1af3ce149&txTime=677d13a1",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1736232273-0-0-95b48a66a3f7ff69ba7eb9331d881436",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1736232273-0-0-2ac116479571513f7803553a5cb4576e",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=24821a8d161f57e3793e50e8556808eb&txTime=677d13a1",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=e628ef22376c89e2ef4173bd62f6a8a8&txTime=677d13a1",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-501186_lsd.m3u8?auth_key=1736232273-0-0-c0427ed4632568ae1b60facaa37f8cdd",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-501186_lhd.m3u8?auth_key=1736232273-0-0-2ba4f19e699cc4204a7805992fb2e3e6",
+                "referer": "https://socolivev.co/"
+            }
+        ]
+    },
+    {
         "match_time": "1736233200",
         "match_status": "vs",
         "home_team_name": "Melbourne City",

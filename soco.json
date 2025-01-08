@@ -20,12 +20,12 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=66f376b5abe2ee57db2af234a219e1aa&txTime=677e1445",
+                "stream_url": "https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=a0544fa71fcc69617b544c3cd6a6998d&txTime=677e14f6",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=852bbcea9885ea1039bdf37979b0da40&txTime=677e1445",
+                "stream_url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=c71e225c6be0ce0734980035a285362f&txTime=677e14f6",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -173,88 +173,6 @@
         ]
     },
     {
-        "match_time": "1736287200",
-        "match_status": "live",
-        "home_team_name": "Picos PI  (Youth)",
-        "home_team_logo": "https://sta.vnres.co/file/common/20250104/039230f6270b3c332c2c7ac4fb415556.png",
-        "away_team_name": "Sao Paulo (Youth)",
-        "away_team_logo": "https://sta.vnres.co/file/common/20250104/54d11251413fce3664b533296c2af4fc.png",
-        "league_name": "BRA SPYC",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-500807_lsd.m3u8?auth_key=1736297901-0-0-fcd05711aaa731560bccd4c23a06e481",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-500807_lhd.m3u8?auth_key=1736297901-0-0-c2a46d3aefdb8f10da4406185c129a24",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9911957_lsd.m3u8?auth_key=1736297902-0-0-bbb5a43d336008c39f20618331eb2f1b",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1736297902-0-0-1663c09e87b176cf466d8ef9505e305e",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912098_lsd.m3u8?txSecret=880eff45a5cca49f48e93cf9bae1f506&txTime=677e1315",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912098_lhd.m3u8?txSecret=2545a1661e921697d79609137f35ce81&txTime=677e1315",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1736287200",
-        "match_status": "live",
-        "home_team_name": "America-RJ (Youth)",
-        "home_team_logo": "https://sta.vnres.co/file/common/20250104/a06ba37632787d70bbaba82304e88781.png",
-        "away_team_name": "Atletico GO (Youth)",
-        "away_team_logo": "https://sta.vnres.co/file/common/20250104/4ad5f37b2e2d2fe0ab7f62b9726d4ba5.png",
-        "league_name": "BRA SPYC",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-445260_lsd.m3u8?txSecret=feb6b73fef865cf6a0fca35240531b25&txTime=677e13b3",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-445260_lhd.m3u8?txSecret=d5b533aa52a8f71db3baf152807b21d8&txTime=677e13b3",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-406865_lsd.m3u8?txSecret=66f376b5abe2ee57db2af234a219e1aa&txTime=677e1445",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=852bbcea9885ea1039bdf37979b0da40&txTime=677e1445",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9912007_lsd.m3u8?auth_key=1736297973-0-0-f93f1eed5920cde28fe7d66f0ab45003",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9912007_lhd.m3u8?auth_key=1736297973-0-0-d8538758a34aec2943821c2e4fd80968",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1736294400",
         "match_status": "live",
         "home_team_name": "Charlotte Hornets",
@@ -265,12 +183,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1736297973-0-0-4b16e242120d79c24e00cce51c4941f1",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1736298273-0-0-361d17774acbc1539facf176f8b9d47f",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1736297973-0-0-595dae9f78b647d1b0c63450e25ed4b3",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1736298273-0-0-1eb22f85bc081e7d63c44e15394d0d2b",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -286,22 +204,22 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-501186_lsd.m3u8?auth_key=1736297973-0-0-ba1eb83d62134ed201179e77dc7f4ca7",
+                "stream_url": "https://pull.niues.live/live/stream-501186_lsd.m3u8?auth_key=1736298273-0-0-0dd36656aa13e96fd7f19bf2fd97bd80",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-501186_lhd.m3u8?auth_key=1736297973-0-0-ea1ae934f619b89310e127c7f872a772",
+                "stream_url": "https://pull.niues.live/live/stream-501186_lhd.m3u8?auth_key=1736298273-0-0-0093da9820f2567e4e022474ffdd7cd2",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=34f3623e3e54adcc5e535c03efe90583&txTime=677e1445",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=30d89db2162cca613de7670d04941b3c&txTime=677e1571",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=310ddeb380bc4f951b3ef7fbb30540f8&txTime=677e1445",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=5552b153aa8e4f1a221da5369fd3ef55&txTime=677e1571",
                 "referer": "https://socolivev.co/"
             }
         ]

@@ -174,23 +174,105 @@
     },
     {
         "match_time": "1736317800",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Newcastle Jets (w)",
         "home_team_logo": "https://sta.vnres.co/file/common/20250104/5f11187496229c15d19ae7af4aabc835.png",
         "away_team_name": "Adelaide United (w)",
         "away_team_logo": "https://sta.vnres.co/file/common/20250104/cd19b44f79f534630b78cbb575ad3bcb.png",
         "league_name": "AUS WAL",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-9912052_lsd.m3u8?auth_key=1736320774-0-0-5a49b4a3c203be3d7a84bf1b07eedca7",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-9912052_lhd.m3u8?auth_key=1736320774-0-0-0855130285349fb3b43c81d6afe32ba2",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-434982_lsd.m3u8?txSecret=a43163c4e25213b04b84a016bb260a08&txTime=677e6d56",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-434982_lhd.m3u8?txSecret=cecdd6159cf6d710cdc8d441d3976acd&txTime=677e6d56",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1736320774-0-0-cf809b829123886dfd02424f643f7d1d",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1736320774-0-0-b6aba29f1ecf4d7a400fc7684ad73cd0",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912096_lsd.m3u8?txSecret=4c6863b0d793067f2746ff9bf7e2bf36&txTime=677e6d55",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912096_lhd.m3u8?txSecret=3b702de4ead6b9031ab887982d5e1cf5&txTime=677e6d55",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912100_lsd.m3u8?txSecret=e4a286aa7e6b51bd2cf09e3fc7ecfe3e&txTime=677e6d55",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=3f5f392808d4525ab24b2846eeefa96c&txTime=677e6d55",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912048_lsd.m3u8?txSecret=fcfffe33579054512c00c6f0c6be377f&txTime=677e6d55",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912048_lhd.m3u8?txSecret=8ca0abe54c2c7af286f1537a964922bd&txTime=677e6d55",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1736317800",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Novosibirsk W",
         "home_team_logo": "https://sta.vnres.co/file/common/20250106/1d33dcaa18fed5f61b8f15f2a4404889.png",
         "away_team_name": "Nika Siktivkar W",
         "away_team_logo": "https://sta.vnres.co/file/common/20250106/d854336eb1d42c5809d1ff7dd4a74554.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=62083ac490cad05352773884575acf41&txTime=677e6d55",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=3cf43189d526666fa7a34fce99a68001&txTime=677e6d55",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=ed3798587c9e590b587161e1eb3f9815&txTime=677e6d56",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=a18032b171662c307a4b55621e5fd6ed&txTime=677e6d56",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1736323200",

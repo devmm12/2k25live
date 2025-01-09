@@ -244,84 +244,22 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=bee80e7fb8a540e584c71942333e429b&txTime=677f681e",
+                "stream_url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=f50100855e0bc0721cccfaa435c52703&txTime=677f694a",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=1ce639060fb2e3c9f54cee71e24cf5bb&txTime=677f681e",
+                "stream_url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=3df766499e354d3fd9bd3f098af1fae8&txTime=677f694a",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=1b391c0dbaa1bc5de6fc3f81c2417c5f&txTime=677f681e",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lsd.m3u8?txSecret=fbb3861b2254413d0e989c2594fc3569&txTime=677f694a",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=4bc69eecf5ac3d9b04490efd0c1b6ec5&txTime=677f681e",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1736380800",
-        "match_status": "live",
-        "home_team_name": "Indiana Pacers",
-        "home_team_logo": "https://sta.vnres.co/file/common/20250107/91e7109538208b7d59bc7d72e83a06b6.png",
-        "away_team_name": "Chicago Bulls",
-        "away_team_logo": "https://sta.vnres.co/file/common/20250107/682ae69d8ce5aceea2f2af0f2f7e589b.png",
-        "league_name": "NBA",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1736384974-0-0-ce2ef0e8537bd8dcbe31ecc6da298c12",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1736384974-0-0-e179ebf6bec7205d19390d4cc5264a39",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=805145fe200587e1053cdc1345953966&txTime=677f681e",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=fb60b03bbfe96726963b474b9fb6bc64&txTime=677f681e",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1736380800",
-        "match_status": "live",
-        "home_team_name": "Philadelphia 76ers",
-        "home_team_logo": "https://sta.vnres.co/file/common/20250107/35dbcd6ca94db94b2b458995d748f727.png",
-        "away_team_name": "Washington Wizards",
-        "away_team_logo": "https://sta.vnres.co/file/common/20250107/063c7ca0f915d6f28458b267c96108ba.png",
-        "league_name": "NBA",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1736384974-0-0-0c7dcd077d9fe6e830b349d057396b03",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1736384974-0-0-8a3845d404e6cd0ae4eb5ba4b6d2b1f3",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-501186_lsd.m3u8?auth_key=1736384974-0-0-8f570b09f358790798d96cfcee737522",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-501186_lhd.m3u8?auth_key=1736384974-0-0-3bcf363ad96f5789c67a419e44dc84bd",
+                "stream_url": "https://pull.niur.live/live/stream-166054_lhd.m3u8?txSecret=d611b33ac688eaf51ce7f6ba7b2e3831&txTime=677f694a",
                 "referer": "https://socolivev.co/"
             }
         ]
@@ -334,6 +272,26 @@
         "away_team_name": "CR Flamengo (RJ)  (Youth)",
         "away_team_logo": "https://sta.vnres.co/file/common/20250105/7886db88bb5b1eaa8bfb5c7716b9f9f4.png",
         "league_name": "BRA SPYC",
+        "servers": []
+    },
+    {
+        "match_time": "1736382900",
+        "match_status": "vs",
+        "home_team_name": "Indiana Pacers",
+        "home_team_logo": "https://sta.vnres.co/file/common/20250107/91e7109538208b7d59bc7d72e83a06b6.png",
+        "away_team_name": "Chicago Bulls",
+        "away_team_logo": "https://sta.vnres.co/file/common/20250107/682ae69d8ce5aceea2f2af0f2f7e589b.png",
+        "league_name": "NBA",
+        "servers": []
+    },
+    {
+        "match_time": "1736382900",
+        "match_status": "vs",
+        "home_team_name": "Philadelphia 76ers",
+        "home_team_logo": "https://sta.vnres.co/file/common/20250107/35dbcd6ca94db94b2b458995d748f727.png",
+        "away_team_name": "Washington Wizards",
+        "away_team_logo": "https://sta.vnres.co/file/common/20250107/063c7ca0f915d6f28458b267c96108ba.png",
+        "league_name": "NBA",
         "servers": []
     },
     {
@@ -739,16 +697,6 @@
     {
         "match_time": "1736467200",
         "match_status": "vs",
-        "home_team_name": "Cleveland Cavaliers",
-        "home_team_logo": "https://sta.vnres.co/file/common/20250108/221f854ddeb231d7faa88d268ee9771f.png",
-        "away_team_name": "Toronto Raptors",
-        "away_team_logo": "https://sta.vnres.co/file/common/20250108/1d3e84a45f6a30017a8d7e77c1bb50ce.png",
-        "league_name": "NBA",
-        "servers": []
-    },
-    {
-        "match_time": "1736467200",
-        "match_status": "vs",
         "home_team_name": "Detroit Pistons",
         "home_team_logo": "https://sta.vnres.co/file/common/20250108/80ba027de0ad6ec7dc022a2f9a9cec1a.png",
         "away_team_name": "Golden State Warriors",
@@ -774,6 +722,16 @@
         "away_team_name": "Atletico Mineiro (Youth)",
         "away_team_logo": "https://sta.vnres.co/file/common/20250106/3e97401254b4f1620eedc2bbf153ade9.png",
         "league_name": "BRA SPYC",
+        "servers": []
+    },
+    {
+        "match_time": "1736469300",
+        "match_status": "vs",
+        "home_team_name": "Cleveland Cavaliers",
+        "home_team_logo": "https://sta.vnres.co/file/common/20250108/221f854ddeb231d7faa88d268ee9771f.png",
+        "away_team_name": "Toronto Raptors",
+        "away_team_logo": "https://sta.vnres.co/file/common/20250108/1d3e84a45f6a30017a8d7e77c1bb50ce.png",
+        "league_name": "NBA",
         "servers": []
     },
     {

@@ -10,12 +10,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1736552674-0-0-a5aef3e39005ac5848b70aa1b1ca4f87",
+                "stream_url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1736552974-0-0-cd8f1adf18e0687cae23c170bb10e013",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1736552674-0-0-37a8aa8f6c4eb03ad41848022fa8ac71",
+                "stream_url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1736552974-0-0-e28411d31bb4a9549e40686baaf9a5e7",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -41,12 +41,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-500807_lsd.m3u8?auth_key=1736552674-0-0-4448c64a39db740f2773824263a5523d",
+                "stream_url": "https://pull.niues.live/live/stream-500807_lsd.m3u8?auth_key=1736552984-0-0-88f1bf203f371a96c6569e470b7ab9aa",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-500807_lhd.m3u8?auth_key=1736552674-0-0-2a222f0c86fe6780fa78252cce85998e",
+                "stream_url": "https://pull.niues.live/live/stream-500807_lhd.m3u8?auth_key=1736552984-0-0-4c521e397457504aebc11e7dfe7c6a25",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -61,12 +61,12 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1736552674-0-0-834af73e134d0ecdd6bd5c3042d62194",
+                "stream_url": "https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1736552974-0-0-b1d787c203b65a88552267e3717b35de",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1736552674-0-0-0ce05924609683744948fbc78629664e",
+                "stream_url": "https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1736552974-0-0-67ab5475fc1b688d1901025d99c0cabf",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -143,12 +143,12 @@
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-9911957_lsd.m3u8?auth_key=1736552674-0-0-2251d847f797750638c9ef182b264721",
+                "stream_url": "https://pull.niues.live/live/stream-9911957_lsd.m3u8?auth_key=1736552974-0-0-4218ccaecadb9aff2e1a065669fbff75",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1736552674-0-0-8d2a4cd9c5b5e9823d10783962fc3c84",
+                "stream_url": "https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1736552974-0-0-2ba47caac0e4ea091b0219e9609076b7",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -408,12 +408,12 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1736552674-0-0-bcbfed331a93edd57827b4b683abe181",
+                "stream_url": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1736552974-0-0-ebc14903fd80787676c4146f412fc002",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1736552674-0-0-930c3b01bd034a62546187ccfeac59fa",
+                "stream_url": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1736552974-0-0-131b03ea60463e425cd4188356e16338",
                 "referer": "https://socolivev.co/"
             },
             {
@@ -470,23 +470,85 @@
     },
     {
         "match_time": "1736550000",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Club America (w)",
         "home_team_logo": "https://sta.vnres.co/file/common/20250107/436643bd4777be059949844346b1fa51.png",
         "away_team_name": "Queretaro (w)",
         "away_team_logo": "https://sta.vnres.co/file/common/20250107/5ee72fbd4f7723b54987a5e83f1117d3.png",
         "league_name": "MEX WD1",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-239275_lsd.m3u8?auth_key=1736552974-0-0-b1d787c203b65a88552267e3717b35de",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-239275_lhd.m3u8?auth_key=1736552974-0-0-67ab5475fc1b688d1901025d99c0cabf",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-479849_lsd.m3u8?auth_key=1736552974-0-0-ebc14903fd80787676c4146f412fc002",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-479849_lhd.m3u8?auth_key=1736552974-0-0-131b03ea60463e425cd4188356e16338",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-427562_lsd.m3u8?auth_key=1736552974-0-0-cd8f1adf18e0687cae23c170bb10e013",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1736552974-0-0-e28411d31bb4a9549e40686baaf9a5e7",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-9912043_lsd.m3u8?auth_key=1736552974-0-0-1891035a4a418fcebb6edf44c99120cb",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-9912043_lhd.m3u8?auth_key=1736552974-0-0-62fb5ccc5b82570580fcda574eb124b6",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1736550000",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Santos Laguna (w)",
         "home_team_logo": "https://sta.vnres.co/file/common/20250107/e9ba30d4ec8c90e09513fcba6aee18ad.png",
         "away_team_name": "Chivas Guadalajara (w)",
         "away_team_logo": "https://sta.vnres.co/file/common/20250107/628cbcc7fec14893d1de1722f143281c.png",
         "league_name": "MEX WD1",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-500807_lsd.m3u8?auth_key=1736552984-0-0-88f1bf203f371a96c6569e470b7ab9aa",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-500807_lhd.m3u8?auth_key=1736552984-0-0-4c521e397457504aebc11e7dfe7c6a25",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-9911957_lsd.m3u8?auth_key=1736552974-0-0-4218ccaecadb9aff2e1a065669fbff75",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-9911957_lhd.m3u8?auth_key=1736552974-0-0-2ba47caac0e4ea091b0219e9609076b7",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1736553600",

@@ -490,13 +490,44 @@
     },
     {
         "match_time": "1736749800",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "New Zealand Breakers",
         "home_team_logo": "https://sta.vnres.co/file/common/20250111/04a28047bd0c1aff955f2b73aa999ae7.png",
         "away_team_name": "Melbourne United",
         "away_team_logo": "https://sta.vnres.co/file/common/20250111/312e02d8ffa80c1873b4776a527a5734.png",
         "league_name": "NBL",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=0e515832f3aaac3f1b7b2971a037cce7&txTime=678504d6",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=2e1746334edbdc922605b256a2d63b2f&txTime=678504d6",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-166054_lsd.m3u8?auth_key=1736752774-0-0-8cf6a70e910521434283a925bfc41772",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-166054_lhd.m3u8?auth_key=1736752774-0-0-1d4c3b745d9216bc1d232f02fd2f2d29",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1736752774-0-0-5455c1e8d196f184a65d9ede8c4802b8",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1736752774-0-0-fdbe21fecbc07557d626eb04aa38b28a",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1736757000",

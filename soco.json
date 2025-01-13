@@ -225,23 +225,45 @@
     },
     {
         "match_time": "1736807400",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Cearense",
         "home_team_logo": "https://sta.vnres.co/file/common/20250112/335cb002ff52f8b3e87c71551a64a8de.png",
         "away_team_name": "Pato",
         "away_team_logo": "https://sta.vnres.co/file/common/20250112/e679831c4035410b9ada6a24eae15e28.png",
         "league_name": "NBB",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-501186_lsd.m3u8?auth_key=1736810374-0-0-b050f2763d67cb84808c521b54a31498",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-501186_lhd.m3u8?auth_key=1736810374-0-0-ffb197343ee3bbe54d2344e677d454a0",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1736807400",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Uniao Corinthians",
         "home_team_logo": "https://sta.vnres.co/file/common/20250112/7c57b50d361fc1f05967d802a0be56e4.png",
         "away_team_name": "Caxias do Sul",
         "away_team_logo": "https://sta.vnres.co/file/common/20250112/7255c2cb1e4e4358e365f36cfa0c0133.png",
         "league_name": "NBB",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1736769553-0-0-e313b0670bcd5b5ce1162f8358479a4d",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1736769553-0-0-f8ce0e9cb240910d4947d04025b1f8a6",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1736809200",

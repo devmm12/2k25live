@@ -489,67 +489,6 @@
         ]
     },
     {
-        "match_time": "1736735700",
-        "match_status": "live",
-        "home_team_name": "Phoenix Suns",
-        "home_team_logo": "https://sta.vnres.co/file/common/20250111/7dbe6b08169d8fb649e12c5ff78f3b00.png",
-        "away_team_name": "Charlotte Hornets",
-        "away_team_logo": "https://sta.vnres.co/file/common/20250111/125372edb880a87d1e14713047895278.png",
-        "league_name": "NBA",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=cfe245d354845f87379ad9c62247c0b6&txTime=6784ec3d",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=7d638464aed79a3daa3c1f9f3c81498c&txTime=6784ec3d",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=b0248d9f919130df1901475ff3b7d165&txTime=6784eb4a",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=ae45bd6c94c2d8a5c499cf7c55ea975c&txTime=6784eb4a",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-166054_lsd.m3u8?auth_key=1736746303-0-0-0b9481f337933949b6113b264f1514dd",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-166054_lhd.m3u8?auth_key=1736746303-0-0-90ab312c0d073e1ae1259e5aabe02747",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1736746474-0-0-6ce49aaa4f9987ce3fadc2a5d8041a9a",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1736746474-0-0-d9de2566a47bdbb742e6e4e5d883a8e7",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-501186_lsd.m3u8?auth_key=1736746041-0-0-ad842342a1da36ab34330ef9776d6ff5",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-501186_lhd.m3u8?auth_key=1736746041-0-0-6179d74e264c5c3365dc7947d8a57c32",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1736749800",
         "match_status": "vs",
         "home_team_name": "New Zealand Breakers",

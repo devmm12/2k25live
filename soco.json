@@ -224,48 +224,6 @@
         ]
     },
     {
-        "match_time": "1736816700",
-        "match_status": "live",
-        "home_team_name": "New York Knicks",
-        "home_team_logo": "https://sta.vnres.co/file/common/20250112/f018f2bd3bbcfff11db42004d2597acf.png",
-        "away_team_name": "Detroit Pistons",
-        "away_team_logo": "https://sta.vnres.co/file/common/20250112/7418deb622e33e0002ef08d7eac915ad.png",
-        "league_name": "NBA",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-501186_lsd.m3u8?auth_key=1736827174-0-0-ce3b68a8197d0970aac605ac6ac98d9f",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-501186_lhd.m3u8?auth_key=1736827174-0-0-40e7e7055c81ea15bdc94945e5fe68c9",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
-        "match_time": "1736816700",
-        "match_status": "live",
-        "home_team_name": "Toronto Raptors",
-        "home_team_logo": "https://sta.vnres.co/file/common/20250112/9e2eb11f3e88f25f285c91ec7d0c67c2.png",
-        "away_team_name": "Golden State Warriors",
-        "away_team_logo": "https://sta.vnres.co/file/common/20250112/9b0734c20aea6b2838b5175c741f42db.png",
-        "league_name": "NBA",
-        "servers": [
-            {
-                "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1736827174-0-0-151000ca01509e3ca8a0e0c853581cab",
-                "referer": "https://socolivev.co/"
-            },
-            {
-                "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1736827174-0-0-a5dc02737abdbd36ceb46c853677078e",
-                "referer": "https://socolivev.co/"
-            }
-        ]
-    },
-    {
         "match_time": "1736818500",
         "match_status": "live",
         "home_team_name": "Houston Rockets",
@@ -276,32 +234,32 @@
         "servers": [
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=aceeb64075df4e2b28d96bde7eb71333&txTime=67862776",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=fe91dd0a12eaf7bd8fb1bd4ac3cdee77&txTime=678628a2",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=085f2b859f8ff99eeb7f3befb07579f9&txTime=67862776",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=af23882ad538c9261e666b052bffaa26&txTime=678628a2",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-166054_lsd.m3u8?auth_key=1736827174-0-0-a1e84ed2286147b4fa55788220b80bd9",
+                "stream_url": "https://pull.niues.live/live/stream-166054_lsd.m3u8?auth_key=1736827474-0-0-e86c488d285d4da73a121dc10e677672",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-166054_lhd.m3u8?auth_key=1736827174-0-0-f983235b74286a75324b408f95a1f51e",
+                "stream_url": "https://pull.niues.live/live/stream-166054_lhd.m3u8?auth_key=1736827474-0-0-f2c20288019f9bd6177abf729ac9fc09",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco SD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1736827174-0-0-ab4367225a61466914435bc5224e068a",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1736827474-0-0-98c260ad4d14c1110ea9e71dc769e00b",
                 "referer": "https://socolivev.co/"
             },
             {
                 "name": "Soco HD",
-                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1736827174-0-0-bb6ab0cad08933528bce965ffeb1a64e",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1736827474-0-0-6ee39a1d43a3686937f56fb7db7df6aa",
                 "referer": "https://socolivev.co/"
             }
         ]

@@ -225,23 +225,85 @@
     },
     {
         "match_time": "1736827500",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Los Angeles Clippers",
         "home_team_logo": "https://sta.vnres.co/file/common/20250113/de39f3a1fb3abf6488a380371a385dea.png",
         "away_team_name": "Miami Heat",
         "away_team_logo": "https://sta.vnres.co/file/common/20250113/4030970a2b9bc05928a71c8d380a8a4f.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-166054_lsd.m3u8?auth_key=1736830474-0-0-32afdfe49bfedd2389f662e8688ba127",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-166054_lhd.m3u8?auth_key=1736830474-0-0-65da934af9a29774e0b404a77aa8ab05",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-289098_lsd.m3u8?txSecret=c47e1d678634bb0d7cac21c10470c24f&txTime=6786345a",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-289098_lhd.m3u8?txSecret=26d1e0996cb036d3547dda39c257265c&txTime=6786345a",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-501186_lsd.m3u8?auth_key=1736830474-0-0-93273e992848a7d35bc5d1d6f6304f13",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-501186_lhd.m3u8?auth_key=1736830474-0-0-ac0232bf819ed6d57a1a369708d5895a",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1736827500",
-        "match_status": "vs",
+        "match_status": "live",
         "home_team_name": "Los Angeles Lakers",
         "home_team_logo": "https://sta.vnres.co/file/common/20250113/b44a0f14fc9dd2735062f977e6af5277.png",
         "away_team_name": "San Antonio Spurs",
         "away_team_logo": "https://sta.vnres.co/file/common/20250113/0191b0b8c5f2b143e95993db4177f2d7.png",
         "league_name": "NBA",
-        "servers": []
+        "servers": [
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lsd.m3u8?auth_key=1736830474-0-0-ae13cc872840c7c904209e3b59a5c7f1",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-122591_lhd.m3u8?auth_key=1736830474-0-0-a43a8a71ab86a8993f774a4b503d3077",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lsd.m3u8?txSecret=ab938944e150f2087795711db2a82c4f&txTime=6786345a",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niur.live/live/stream-9912099_lhd.m3u8?txSecret=a86771d5051188d8d46791d62345fd20&txTime=6786345a",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco SD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lsd.m3u8?auth_key=1736830474-0-0-564751015ce445cce1f68db33113afaa",
+                "referer": "https://socolivev.co/"
+            },
+            {
+                "name": "Soco HD",
+                "stream_url": "https://pull.niues.live/live/stream-428392_lhd.m3u8?auth_key=1736830474-0-0-5897d33daa38d48a851c2dc25ef8a61b",
+                "referer": "https://socolivev.co/"
+            }
+        ]
     },
     {
         "match_time": "1736839800",
